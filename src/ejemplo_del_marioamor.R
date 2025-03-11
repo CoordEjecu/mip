@@ -32,7 +32,7 @@ liontief <- diag(20) - insumo_producto
 
 liontief_inv <- solve(liontief)
 
-just_industries_rows <- mip_df[1:20,]
+just_industries_rows <- mip_df[1:20, ]
 # Primer escenario
 demanda_final_mod <- mip::change_exports(just_industries_rows, 1.0)
 
