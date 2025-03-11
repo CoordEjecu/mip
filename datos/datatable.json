@@ -31,9 +31,11 @@
                         "format": "default"
                     },
                     {
-                        "name": "11 - Agricultura, cr\u00eda y explotaci\u00f3n de animales, aprovechamiento forestal, pesca y caza",
+                        "name": "agricultura",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",
+                        "nombre_largo": "11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza"
                     },
                     {
                         "name": "21 - Miner\u00eda",
