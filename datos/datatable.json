@@ -201,9 +201,11 @@
                         "nombre_largo": "P.51b - Formación bruta de capital fijo"
                     },
                     {
-                        "name": "P.52 - Variaci\u00f3n de existencias",
+                        "name": "existencias",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Variación de existencias",
+                        "nombre_largo": "P.52 - Variación de existencias"
                     },
                     {
                         "name": "a P.6 - Exportaciones de bienes y servicios",
