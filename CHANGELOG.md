@@ -23,4 +23,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - `datatable.json`
 - Examples: `src/ejemplo_del_marioamor.R` y `src/linkages_input-output.R`
 
-[0.0.1]: https://github.com/CoordEjecu/mip/compare/v0.1.0...v0.1.1
+[0.0.1]: https://github.com/CoordEjecu/mip/releases/tag/v0.0.1
