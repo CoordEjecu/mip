@@ -36,3 +36,13 @@ describe("Change final demands", {
     expect_equal(obtained_demand, expected_demand)
   })
 })
+
+describe("Calcualte percentaje changed", {
+  it("Changed 10%", {
+    originan_demand <- c(100, 100, 100)
+    changed_demand <- c(110, 110, 110)
+    expected_percentaje <- c(10, 10, 10)
+    obtained_percentaje <- percentaje_changed(originan_demand, changed_demand)
+    expect_equal(obtained_percentaje, expected_percentaje)
+  })
+})
