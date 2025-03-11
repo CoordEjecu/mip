@@ -30,4 +30,9 @@ describe("Change final demands", {
     obtained_demand <- change_exports(demand, 0.5)
     expect_equal(obtained_demand, expected_demand)
   })
+  it("change exports: factor 0.1", {
+    expected_demand <- c(1.1, 2.2, 3.3)
+    obtained_demand <- change_exports(demand, 0.1)
+    expect_equal(obtained_demand, expected_demand)
+  })
 })
