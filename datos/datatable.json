@@ -94,9 +94,11 @@
                         "nombre_largo": "51 Información en medios masivos"
                     },
                     {
-                        "name": "52 - Servicios financieros y de seguros",
+                        "name": "servicios_financieros_seguros",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Servicios financieros y de seguros",
+                        "nombre_largo": "52 Servicios financieros y de seguros"
                     },
                     {
                         "name": "53 - Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",
