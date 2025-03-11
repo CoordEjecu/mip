@@ -7,7 +7,7 @@ get_industry_name <- function(metadata) {
 
 change_exports <- function(demand, factor) {
   new_demand <- demand |>
-    dplyr::mutate(final_demand = cprv + cg + fbkf + existencias + factor*exportaciones) |>
+    dplyr::mutate(final_demand = cprv + cg + fbkf + existencias + factor * exportaciones) |>
     dplyr::pull(final_demand)
   return(new_demand)
 }
