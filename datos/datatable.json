@@ -59,9 +59,11 @@
                         "nombre_largo": "23 Construcción"
                     },
                     {
-                        "name": "31-33 - Industrias manufactureras",
+                        "name": "manufactura",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Industrias manufactureras",
+                        "nombre_largo": "31-33 Industrias manufactureras"
                     },
                     {
                         "name": "43 - Comercio al por mayor",
