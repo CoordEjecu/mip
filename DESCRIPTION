@@ -1,4 +1,4 @@
-Package: templater
+Package: mip
 Title: Template for R projects
 Authors@R: c(
     person(given = "nies futbol",
@@ -21,4 +21,4 @@ Suggests:
     roxygen2,
     testthat
 Type: Package
-Version: 0.1.0
+Version: 0.0.1
