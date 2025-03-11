@@ -87,9 +87,11 @@
                         "nombre_largo": "48-49 Transportes, correos y almacenamiento"
                     },
                     {
-                        "name": "51 - Informaci\u00f3n en medios masivos",
+                        "name": "medios_masivos",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Información en medios masivos",
+                        "nombre_largo": "51 Información en medios masivos"
                     },
                     {
                         "name": "52 - Servicios financieros y de seguros",
