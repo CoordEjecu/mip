@@ -52,9 +52,11 @@
                         "nombre_largo": "22 Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
                     },
                     {
-                        "name": "23 - Construcci\u00f3n",
+                        "name": "contruccion",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Construcción",
+                        "nombre_largo": "23 Construcción"
                     },
                     {
                         "name": "31-33 - Industrias manufactureras",
