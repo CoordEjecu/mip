@@ -208,14 +208,18 @@
                         "nombre_largo": "P.52 - Variación de existencias"
                     },
                     {
-                        "name": "a P.6 - Exportaciones de bienes y servicios",
+                        "name": "exportaciones",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Exportaciones de bienes y servicios",
+                        "nombre_largo": "P.6 - Exportaciones de bienes y servicios"
                     },
                     {
-                        "name": "YA0 - Discrepancia estad\u00edstica",
+                        "name": "discrepancia",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Discrepancia estadística",
+                        "nombre_largo": "YA0 - Discrepancia estadística"
                     }
                 ],
                 "missingValues": [
