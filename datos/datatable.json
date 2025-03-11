@@ -164,9 +164,11 @@
                         "nombre_largo": "81 - Otros servicios excepto actividades gubernamentales"
                     },
                     {
-                        "name": "93 - Actividades legislativas, gubernamentales, de impartici\u00f3n de justicia y de organismos internacionales y extraterritoriales",
+                        "name": "actividades_gubernamentales",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",
+                        "nombre_largo": "93 - Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales"
                     },
                     {
                         "name": "Total2",
