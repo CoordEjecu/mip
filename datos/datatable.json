@@ -101,9 +101,11 @@
                         "nombre_largo": "52 Servicios financieros y de seguros"
                     },
                     {
-                        "name": "53 - Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",
+                        "name": "inmobiliarios",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",
+                        "nombre_largo": "53 - Servicios inmobiliarios y de alquiler de bienes muebles e intangibles"
                     },
                     {
                         "name": "54 - Servicios profesionales, cient\u00edficos y t\u00e9cnicos",
