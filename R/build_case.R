@@ -5,6 +5,7 @@ get_industry_name <- function(metadata) {
   return(industry_name)
 }
 
+#' @export
 change_exports <- function(demand, factor) {
   new_demand <- demand |>
     dplyr::mutate(final_demand = cprv + cg + fbkf + existencias + factor * exportaciones) |>
