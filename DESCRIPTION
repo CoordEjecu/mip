@@ -1,13 +1,13 @@
 Package: mip
-Title: Template for R projects
+Title: Matriz Insumo Producto
 Authors@R: c(
-    person(given = "nies futbol",
-           family = "nies futbol",
+    person(given = "Leonardo",
+           family = "Baez",
            role = c("aut", "cre", "cph"),
-           email = "nepo@nies.futbol"
+           email = "leonardo.baez@sonora.gob.mx"
            ))
 Config/testthat/edition: 3
-Description: Plantilla de Ciencia de Datos en nies.futbol para proyectos en R
+Description: Harramientas para trabajar los datos de matriz insumo producto con datos del INEGI
 Encoding: UTF-8
 Imports:
     R6,
