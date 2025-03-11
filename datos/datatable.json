@@ -136,9 +136,11 @@
                         "nombre_largo": "61 - Servicios educativos"
                     },
                     {
-                        "name": "62 - Servicios de salud y de asistencia social",
+                        "name": "salud_asistencia",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Servicios de salud y de asistencia social",
+                        "nombre_largo": "62 - Servicios de salud y de asistencia social"
                     },
                     {
                         "name": "71 - Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",
