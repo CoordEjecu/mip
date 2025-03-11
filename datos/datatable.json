@@ -108,9 +108,11 @@
                         "nombre_largo": "53 - Servicios inmobiliarios y de alquiler de bienes muebles e intangibles"
                     },
                     {
-                        "name": "54 - Servicios profesionales, cient\u00edficos y t\u00e9cnicos",
+                        "name": "profesionales",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Servicios profesionales, científicos y técnicos",
+                        "nombre_largo": "54 - Servicios profesionales, científicos y técnicos"
                     },
                     {
                         "name": "55 - Corporativos",
