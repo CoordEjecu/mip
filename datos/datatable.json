@@ -122,9 +122,11 @@
                         "nombre_largo": "55 - Corporativos"
                     },
                     {
-                        "name": "56 - Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediaci\u00f3n",
+                        "name": "apoyo_negocios",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",
+                        "nombre_largo": "56 - Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación"
                     },
                     {
                         "name": "61 - Servicios educativos",
