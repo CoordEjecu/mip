@@ -1,4 +1,8 @@
 library(tidyverse)
+library(jsonlite)
+library(mip)
+json_file <- "/workdir/datos/datatable.json"
+metadata <- fromJSON(json_file)
 
 mip_df <- read_csv("datos/conjunto_de_datos_mip_cdi_ixi_12018.csv", show_col_types = FALSE, col_types = cols(.default = "d", concepto = "c"))
 
@@ -7,7 +11,7 @@ mip_df <- read_csv("datos/conjunto_de_datos_mip_cdi_ixi_12018.csv", show_col_typ
 all_concepts <- mip_df |>
   pull(concepto)
 
-industrias <- all_concepts[1:20]
+industrias <- get_industry_name(metadata)
 
 mip_industrias <- mip_df |>
   select(industrias)
