@@ -143,9 +143,11 @@
                         "nombre_largo": "62 - Servicios de salud y de asistencia social"
                     },
                     {
-                        "name": "71 - Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",
+                        "name": "esparcimiento",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",
+                        "nombre_largo": "71 - Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos"
                     },
                     {
                         "name": "72 - Servicios de alojamiento temporal y de preparaci\u00f3n de alimentos y bebidas",
