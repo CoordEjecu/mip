@@ -194,9 +194,11 @@
                         "nombre_largo": "Consumo de gobierno"
                     },
                     {
-                        "name": "P.51b - Formaci\u00f3n bruta de capital fijo",
+                        "name": "fbkf",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Formación bruta de capital fijo",
+                        "nombre_largo": "P.51b - Formación bruta de capital fijo"
                     },
                     {
                         "name": "P.52 - Variaci\u00f3n de existencias",
