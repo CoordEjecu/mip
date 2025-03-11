@@ -1,0 +1,175 @@
+{
+    "name": "change-me",
+    "schema": "tabular-data-package",
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "path": "datos/conjunto_de_datos_mip_cdi_ixi_12018.csv",
+            "profile": "tabular-data-resource",
+            "name": "conjunto_de_datos_mip_cdi_ixi_12018",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concepto",
+                        "type": "string",
+                        "nombre_largo": "Concepto",
+                        "format": "default"
+                    },
+                    {
+                        "name": "uppb",
+                        "type": "integer",
+                        "format": "default",
+                        "description": "Utilización de la producción a precios básicos",
+                        "nombre_largo": "Utilización de la producción a precios básicos"
+                    },
+                    {
+                        "name": "Total",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "11 - Agricultura, cr\u00eda y explotaci\u00f3n de animales, aprovechamiento forestal, pesca y caza",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "21 - Miner\u00eda",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "22 - Generaci\u00f3n, transmisi\u00f3n, distribuci\u00f3n y comercializaci\u00f3n de energ\u00eda el\u00e9ctrica, suministro de agua y de gas natural por ductos al consumidor final",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "23 - Construcci\u00f3n",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "31-33 - Industrias manufactureras",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "43 - Comercio al por mayor",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "46 - Comercio al por menor",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "48-49 - Transportes, correos y almacenamiento",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "51 - Informaci\u00f3n en medios masivos",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "52 - Servicios financieros y de seguros",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "53 - Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "54 - Servicios profesionales, cient\u00edficos y t\u00e9cnicos",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "55 - Corporativos",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "56 - Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediaci\u00f3n",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "61 - Servicios educativos",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "62 - Servicios de salud y de asistencia social",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "71 - Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "72 - Servicios de alojamiento temporal y de preparaci\u00f3n de alimentos y bebidas",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "81 - Otros servicios excepto actividades gubernamentales",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "93 - Actividades legislativas, gubernamentales, de impartici\u00f3n de justicia y de organismos internacionales y extraterritoriales",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "Total2",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "CPrv - Consumo privado",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "CG - Consumo de gobierno",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "P.51b - Formaci\u00f3n bruta de capital fijo",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "P.52 - Variaci\u00f3n de existencias",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "a P.6 - Exportaciones de bienes y servicios",
+                        "type": "integer",
+                        "format": "default"
+                    },
+                    {
+                        "name": "YA0 - Discrepancia estad\u00edstica",
+                        "type": "integer",
+                        "format": "default"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ]
+}
