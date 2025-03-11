@@ -20,7 +20,7 @@ clean_mip_industrias <- mip_industrias[1:20, ]
 produccion <- all_concepts[32]
 
 total_produccion <- mip_df |>
-  filter(Concepto == produccion)
+  filter(concepto == produccion)
 
 demanda_intermedia <- total_produccion[, 4:23] |> as.numeric()
 
