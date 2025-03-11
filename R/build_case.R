@@ -13,7 +13,8 @@ change_exports <- function(demand, factor) {
   return(new_demand)
 }
 
+#' @export
 percentaje_changed <- function(original_demand, changed_demand) {
   percentaje <- (changed_demand - original_demand) / original_demand * 100
-  return(percentaje)
+  return(round(percentaje, 2))
 }
