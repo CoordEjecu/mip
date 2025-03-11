@@ -171,14 +171,20 @@
                         "nombre_largo": "93 - Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales"
                     },
                     {
-                        "name": "Total2",
+                        "name": "demanda_final",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Demanda final",
+                        "nombre_largo": "Demanda final"
+
                     },
                     {
-                        "name": "CPrv - Consumo privado",
+                        "name": "cprv",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Consumo privado",
+                        "nombre_largo": "Consumo privado"
+
                     },
                     {
                         "name": "CG - Consumo de gobierno",
