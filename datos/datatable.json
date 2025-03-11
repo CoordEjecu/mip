@@ -73,9 +73,11 @@
                         "nombre_largo": "43 Comercio al por mayor"
                     },
                     {
-                        "name": "46 - Comercio al por menor",
+                        "name": "menudeo",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Comercio al por menor",
+                        "nombre_largo": "46 Comercio al por menor"
                     },
                     {
                         "name": "48-49 - Transportes, correos y almacenamiento",
