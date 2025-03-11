@@ -115,9 +115,11 @@
                         "nombre_largo": "54 - Servicios profesionales, científicos y técnicos"
                     },
                     {
-                        "name": "55 - Corporativos",
+                        "name": "corporativos",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Corporativos",
+                        "nombre_largo": "55 - Corporativos"
                     },
                     {
                         "name": "56 - Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediaci\u00f3n",
