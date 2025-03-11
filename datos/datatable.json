@@ -38,9 +38,11 @@
                         "nombre_largo": "11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza"
                     },
                     {
-                        "name": "21 - Miner\u00eda",
+                        "name": "mineria",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Minería",
+                        "nombre_largo": "21 Minería"
                     },
                     {
                         "name": "22 - Generaci\u00f3n, transmisi\u00f3n, distribuci\u00f3n y comercializaci\u00f3n de energ\u00eda el\u00e9ctrica, suministro de agua y de gas natural por ductos al consumidor final",
