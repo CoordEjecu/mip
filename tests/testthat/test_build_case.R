@@ -20,9 +20,14 @@ demand <- tibble::tibble(
 )
 
 describe("Change final demands", {
-  it("change exports", {
+  it("change exports: factor 1", {
     expected_demand <- c(2, 4, 6)
     obtained_demand <- change_exports(demand, 1.0)
+    expect_equal(obtained_demand, expected_demand)
+  })
+  it("change exports: factor 0.5", {
+    expected_demand <- c(1.5, 3, 4.5)
+    obtained_demand <- change_exports(demand, 0.5)
     expect_equal(obtained_demand, expected_demand)
   })
 })
