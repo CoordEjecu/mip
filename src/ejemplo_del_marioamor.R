@@ -34,6 +34,12 @@ liontief_inv <- solve(liontief)
 
 just_industries_rows <- mip_df[1:20, ]
 # Primer escenario
-demanda_final_mod <- mip::change_exports(just_industries_rows, 1.0)
+demanda_final <- mip::change_exports(just_industries_rows, 1.0)
 
-demanda_intermedia_teo <- liontief_inv %*% demanda_final_mod
+demanda_intermedia <- liontief_inv %*% demanda_final
+
+demanda_final_settup_1 <- mip::change_exports(just_industries_rows, 0.70)
+
+demanda_intermedia_1 <- liontief_inv %*% demanda_final_settup_1
+
+mip::percentaje_changed(demanda_intermedia, demanda_intermedia_1)
