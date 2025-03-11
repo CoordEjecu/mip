@@ -45,9 +45,11 @@
                         "nombre_largo": "21 Minería"
                     },
                     {
-                        "name": "22 - Generaci\u00f3n, transmisi\u00f3n, distribuci\u00f3n y comercializaci\u00f3n de energ\u00eda el\u00e9ctrica, suministro de agua y de gas natural por ductos al consumidor final",
+                        "name": "energia_agua_gas",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",
+                        "nombre_largo": "22 Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
                     },
                     {
                         "name": "23 - Construcci\u00f3n",
