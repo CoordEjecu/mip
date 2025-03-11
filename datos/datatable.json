@@ -187,9 +187,11 @@
 
                     },
                     {
-                        "name": "CG - Consumo de gobierno",
+                        "name": "cg",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Consumo de gobierno",
+                        "nombre_largo": "Consumo de gobierno"
                     },
                     {
                         "name": "P.51b - Formaci\u00f3n bruta de capital fijo",
