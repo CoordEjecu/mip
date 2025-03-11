@@ -80,9 +80,11 @@
                         "nombre_largo": "46 Comercio al por menor"
                     },
                     {
-                        "name": "48-49 - Transportes, correos y almacenamiento",
+                        "name": "transporte",
                         "type": "integer",
-                        "format": "default"
+                        "format": "default",
+                        "description": "Transportes, correos y almacenamiento",
+                        "nombre_largo": "48-49 Transportes, correos y almacenamiento"
                     },
                     {
                         "name": "51 - Informaci\u00f3n en medios masivos",
