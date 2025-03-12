@@ -10,6 +10,27 @@ all: check coverage
     setup \
     tests
 
+define checkDirectories
+	mkdir --parents $(@D)
+endef
+
+define renderLatex
+	cd $(<D) && pdflatex $(<F)
+	cd $(<D) && pdflatex $(<F)
+endef
+
+reports/duty.pdf: reports/duty.tex
+	$(renderLatex)
+
+reports/duty.tex: reports/non-tabular/results.json reports/templates/duty.tex
+	jinja-render \
+	--report-name "duty" \
+	--summary-path "reports/non-tabular/results.json"
+
+reports/non-tabular/results.json:
+	$(checkDirectories)
+	echo '{"a":1, "b":2}' > reports/non-tabular/results.json
+
 check:
 	R -e "library(styler)" \
       -e "resumen <- style_dir('R')" \
