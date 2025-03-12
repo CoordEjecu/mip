@@ -19,7 +19,7 @@ define renderLatex
 	cd $(<D) && pdflatex $(<F)
 endef
 
-reports/duty.pdf: reports/duty.tex
+reports/duty.pdf: reports/duty.tex reports/tables/changed_percentaje.csv
 	$(renderLatex)
 
 reports/duty.tex: reports/non-tabular/results.json reports/templates/duty.tex
