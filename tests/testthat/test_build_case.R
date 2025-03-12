@@ -44,6 +44,12 @@ describe("Change final demands", {
     obtained_demand <- change_fbkf(demand, factor_fbkf)
     expect_equal(obtained_demand, expected_demand)
   })
+  it("change fbkf: factor 3, 2, and 1", {
+    factor_fbkf <- c(3.0, 2.0, 1.0)
+    expected_demand <- c(6, 8, 6)
+    obtained_demand <- change_fbkf(demand, factor_fbkf)
+    expect_equal(obtained_demand, expected_demand)
+  })
 })
 
 describe("Calcualte percentaje changed", {
