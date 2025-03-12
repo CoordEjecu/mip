@@ -6,3 +6,5 @@ RUN pip install --upgrade pip && pip install \
 
 
 RUN Rscript -e "install.packages(c('janitor'), repos='http://cran.rstudio.com')"
+
+RUN make install
