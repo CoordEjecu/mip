@@ -37,17 +37,26 @@ describe("Change final demands", {
   })
 })
 
+demand_with_fbkf <- tibble::tibble(
+  "demanda_final" = c(2, 4, 6),
+  "cprv" = c(0, 0, 0),
+  "cg" = c(0, 0, 0),
+  "fbkf" = c(1, 2, 3),
+  "existencias" = c(0, 0, 0),
+  "exportaciones" = c(1, 2, 3)
+)
+
 describe("Change final demands", {
   it("change fbkf: factor 1, 2, and 3", {
     factor_fbkf <- c(1.0, 2.0, 3.0)
-    expected_demand <- c(2, 8, 18)
-    obtained_demand <- change_fbkf(demand, factor_fbkf)
+    expected_demand <- c(2, 6, 12)
+    obtained_demand <- change_fbkf(demand_with_fbkf, factor_fbkf)
     expect_equal(obtained_demand, expected_demand)
   })
   it("change fbkf: factor 3, 2, and 1", {
     factor_fbkf <- c(3.0, 2.0, 1.0)
-    expected_demand <- c(6, 8, 6)
-    obtained_demand <- change_fbkf(demand, factor_fbkf)
+    expected_demand <- c(4, 6, 6)
+    obtained_demand <- change_fbkf(demand_with_fbkf, factor_fbkf)
     expect_equal(obtained_demand, expected_demand)
   })
 })
