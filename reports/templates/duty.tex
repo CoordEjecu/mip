@@ -26,6 +26,19 @@ A nivel estatal se tiene desagregación sectorial de 35 actividades económicas 
 
 En el escenario moderado, la economía mexicana mostraría un retroceso de 2.5 por ciento, mientras que, en el escenario severo y crítico, las contracciones económicas se colocarían entre 6.2 y 7.5 por ciento, respectivamente.
 El sector más afectado es la minería, que incluye a las actividades petroleras y no petroleras (metálicas y no metálicas), las industrias manufactureras y las actividades primarias.
-Estos resultados a nivel nacional se desglosan en 20 sectores de la producción como se describen en el cuadro 1. 
+Estos resultados a nivel nacional se desglosan en 20 sectores de la producción como se describen en el cuadro \ref{tab:settings}.
+
+\begin{table}[htbp]
+    \centering
+    \caption{Porcentaje de los votos para los Diputados del cuarto distrito de Sonora en la 
+    elección de 2024.}
+\label{tab:settings}
+\csvreader[
+  head to column names,
+  tabular=|l|r|r|r|,
+  table head=\hline \textbf{Industria} & \textbf{Esc. 1} & \textbf{Esc. 2} &  \textbf{Esc. 3} \\ \hline,
+  table foot=\hline,
+]{tables/changed_percentaje.csv}{}{\concepto & \escenarioa & \escenariob & \escenarioc}
+\end{table}
 
 \end{document}

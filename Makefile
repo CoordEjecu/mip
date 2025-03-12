@@ -31,6 +31,10 @@ reports/non-tabular/results.json:
 	$(checkDirectories)
 	echo '{"a":1, "b":2}' > reports/non-tabular/results.json
 
+reports/tables/changed_percentaje.csv: src/ejemplo_del_marioamor.R
+	$(checkDirectories)
+	Rscript --vanilla src/ejemplo_del_marioamor.R
+
 check:
 	R -e "library(styler)" \
       -e "resumen <- style_dir('R')" \
