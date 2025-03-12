@@ -58,4 +58,3 @@ results <- tibble::tibble(
   "concepto" = column_names
 ) |>
   write_csv("/workdir/reports/tables/changed_percentaje.csv")
-
