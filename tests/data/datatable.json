@@ -1,0 +1,146 @@
+{
+    "name": "change-me",
+    "schema": "tabular-data-package",
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "path": "datos/conjunto_de_datos_mip_cdi_ixi_12018.csv",
+            "profile": "tabular-data-resource",
+            "name": "conjunto_de_datos_mip_cdi_ixi_12018",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concepto",
+                        "type": "string",
+                        "class": "",
+                        "nombre_largo": "Concepto",
+                        "format": "default"
+                    },
+                    {
+                        "name": "uppb",
+                        "type": "integer",
+                        "class": "",
+                        "format": "default",
+                        "description": "Utilización de la producción a precios básicos",
+                        "nombre_largo": "Utilización de la producción a precios básicos"
+                    },
+                    {
+                        "name": "Total",
+                        "type": "integer",
+                        "class": "",
+                        "format": "default"
+                    },
+                    {
+                        "name": "agricultura",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "11 Agricultura",
+                        "format": "default",
+                        "description": "Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",
+                        "nombre_largo": "11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza"
+                    },
+                    {
+                        "name": "mineria",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "21 Minería",
+                        "format": "default",
+                        "description": "Minería",
+                        "nombre_largo": "21 Minería"
+                    },
+                    {
+                        "name": "energia_agua_gas",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "22",
+                        "format": "default",
+                        "description": "Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",
+                        "nombre_largo": "22 Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+                    },
+                    {
+                        "name": "contruccion",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "23",
+                        "format": "default",
+                        "description": "Construcción",
+                        "nombre_largo": "23 Construcción"
+                    },
+                    {
+                        "name": "actividades_gubernamentales",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "93",
+                        "format": "default",
+                        "description": "Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",
+                        "nombre_largo": "93 - Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales"
+                    },
+                    {
+                        "name": "demanda_final",
+                        "type": "integer",
+                        "class": "",
+                        "format": "default",
+                        "description": "Demanda final",
+                        "nombre_largo": "Demanda final"
+
+                    },
+                    {
+                        "name": "cprv",
+                        "type": "integer",
+                        "class": "",
+                        "format": "default",
+                        "description": "Consumo privado",
+                        "nombre_largo": "Consumo privado"
+
+                    },
+                    {
+                        "name": "cg",
+                        "type": "integer",
+                        "class": "",
+                        "format": "default",
+                        "description": "Consumo de gobierno",
+                        "nombre_largo": "Consumo de gobierno"
+                    },
+                    {
+                        "name": "fbkf",
+                        "type": "integer",
+                        "class": "",
+                        "format": "default",
+                        "description": "Formación bruta de capital fijo",
+                        "nombre_largo": "P.51b - Formación bruta de capital fijo"
+                    },
+                    {
+                        "name": "existencias",
+                        "type": "integer",
+                        "class": "",
+                        "format": "default",
+                        "description": "Variación de existencias",
+                        "nombre_largo": "P.52 - Variación de existencias"
+                    },
+                    {
+                        "name": "exportaciones",
+                        "type": "integer",
+                        "class": "",
+                        "format": "default",
+                        "description": "Exportaciones de bienes y servicios",
+                        "nombre_largo": "P.6 - Exportaciones de bienes y servicios"
+                    },
+                    {
+                        "name": "discrepancia",
+                        "type": "integer",
+                        "class": "",
+                        "format": "default",
+                        "description": "Discrepancia estadística",
+                        "nombre_largo": "YA0 - Discrepancia estadística"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

@@ -36,25 +36,21 @@ demanda_final <- mip::change_exports(just_industries_rows, 1.0)
 demanda_intermedia <- liontief_inv %*% demanda_final
 
 # Primer escenario
-demanda_final_settup_1 <- mip::change_exports(just_industries_rows, 0.90)
-demanda_intermedia_1 <- liontief_inv %*% demanda_final_settup_1
-percentaje_changed_1 <- mip::percentaje_changed(demanda_intermedia, demanda_intermedia_1)
+factor_fbkf <- c(1.1, rep(1, 19))
+demanda_final_settup_fbkf <- mip::change_fbkf(just_industries_rows, factor_fbkf)
+demanda_intermedia_fbkf <- liontief_inv %*% demanda_final_settup_fbkf
+percentaje_changed_fbkf <- mip::percentaje_changed(demanda_intermedia, demanda_intermedia_fbkf)
 
-# Segndo escenario
-demanda_final_settup_2 <- mip::change_exports(just_industries_rows, 0.75)
-demanda_intermedia_2 <- liontief_inv %*% demanda_final_settup_2
-percentaje_changed_2 <- mip::percentaje_changed(demanda_intermedia, demanda_intermedia_2)
-
-# Tercero escenario
-demanda_final_settup_3 <- mip::change_exports(just_industries_rows, 0.70)
-demanda_intermedia_3 <- liontief_inv %*% demanda_final_settup_3
-percentaje_changed_3 <- mip::percentaje_changed(demanda_intermedia, demanda_intermedia_3)
+fbkf <- demanda_intermedia_fbkf |>
+  unname() |>
+  as.numeric()
+original <- demanda_intermedia |>
+  unname() |>
+  as.numeric()
 
 column_names <- mip::get_industry_column_name(metadata)
 results <- tibble::tibble(
-  "escenarioa" = as.numeric(percentaje_changed_1),
-  "escenariob" = as.numeric(percentaje_changed_2),
-  "escenarioc" = as.numeric(percentaje_changed_3),
+  "escenarioa" = as.numeric(percentaje_changed_fbkf),
   "concepto" = column_names
 ) |>
-  write_csv("/workdir/reports/tables/changed_percentaje.csv")
+  write_csv("/workdir/reports/tables/changed_percentaje_fbkf.csv")

@@ -1,0 +1,291 @@
+{
+    "name": "change-me",
+    "schema": "tabular-data-package",
+    "profile": "tabular-data-package",
+    "resources": [
+        {
+            "path": "datos/conjunto_de_datos_mip_cdi_ixi_12018.csv",
+            "profile": "tabular-data-resource",
+            "name": "conjunto_de_datos_mip_cdi_ixi_12018",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "encoding": "utf-8",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concepto",
+                        "type": "string",
+                        "class": "",
+                        "column_name": "Concepto",
+                        "nombre_largo": "Concepto",
+                        "format": "default"
+                    },
+                    {
+                        "name": "uppb",
+                        "type": "integer",
+                        "class": "",
+                        "column_name": "Concepto",
+                        "format": "default",
+                        "description": "Utilización de la producción a precios básicos",
+                        "nombre_largo": "Utilización de la producción a precios básicos"
+                    },
+                    {
+                        "name": "Total",
+                        "type": "integer",
+                        "class": "",
+                        "column_name": "Concepto",
+                        "format": "default"
+                    },
+                    {
+                        "name": "agricultura",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "11 Agricultura",
+                        "format": "default",
+                        "description": "Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",
+                        "nombre_largo": "11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza"
+                    },
+                    {
+                        "name": "mineria",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "21 Minería",
+                        "format": "default",
+                        "description": "Minería",
+                        "nombre_largo": "21 Minería"
+                    },
+                    {
+                        "name": "energia_agua_gas",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "22 Generación de energía",
+                        "format": "default",
+                        "description": "Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",
+                        "nombre_largo": "22 Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
+                    },
+                    {
+                        "name": "construccion",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "23 Construcción",
+                        "format": "default",
+                        "description": "Construcción",
+                        "nombre_largo": "23 Construcción"
+                    },
+                    {
+                        "name": "manufactura",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "31-33 Industrias manufactureras",
+                        "format": "default",
+                        "description": "Industrias manufactureras",
+                        "nombre_largo": "31-33 Industrias manufactureras"
+                    },
+                    {
+                        "name": "mayoreo",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "43 Comercio al por mayor",
+                        "format": "default",
+                        "description": "Comercio al por mayor",
+                        "nombre_largo": "43 Comercio al por mayor"
+                    },
+                    {
+                        "name": "menudeo",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "46 Comercio al por menor",
+                        "format": "default",
+                        "description": "Comercio al por menor",
+                        "nombre_largo": "46 Comercio al por menor"
+                    },
+                    {
+                        "name": "transporte",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "48-49 Transportes",
+                        "format": "default",
+                        "description": "Transportes, correos y almacenamiento",
+                        "nombre_largo": "48-49 Transportes, correos y almacenamiento"
+                    },
+                    {
+                        "name": "medios_masivos",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "51 Información en medios masivos",
+                        "format": "default",
+                        "description": "Información en medios masivos",
+                        "nombre_largo": "51 Información en medios masivos"
+                    },
+                    {
+                        "name": "servicios_financieros_seguros",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "52 Servicios financieros",
+                        "format": "default",
+                        "description": "Servicios financieros y de seguros",
+                        "nombre_largo": "52 Servicios financieros y de seguros"
+                    },
+                    {
+                        "name": "inmobiliarios",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "53 - Servicios inmobiliarios",
+                        "format": "default",
+                        "description": "Servicios inmobiliarios y de alquiler de bienes muebles e intangibles",
+                        "nombre_largo": "53 - Servicios inmobiliarios y de alquiler de bienes muebles e intangibles"
+                    },
+                    {
+                        "name": "profesionales",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "54 - Servicios profesionales",
+                        "format": "default",
+                        "description": "Servicios profesionales, científicos y técnicos",
+                        "nombre_largo": "54 - Servicios profesionales, científicos y técnicos"
+                    },
+                    {
+                        "name": "corporativos",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "55 - Corporativos",
+                        "format": "default",
+                        "description": "Corporativos",
+                        "nombre_largo": "55 - Corporativos"
+                    },
+                    {
+                        "name": "apoyo_negocios",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "56 - Servicios de apoyo a los negocios",
+                        "format": "default",
+                        "description": "Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación",
+                        "nombre_largo": "56 - Servicios de apoyo a los negocios y manejo de residuos, y servicios de remediación"
+                    },
+                    {
+                        "name": "educativos",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "61 - Servicios educativos",
+                        "format": "default",
+                        "description": "Servicios educativos",
+                        "nombre_largo": "61 - Servicios educativos"
+                    },
+                    {
+                        "name": "salud_asistencia",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "62 - Servicios de salud",
+                        "format": "default",
+                        "description": "Servicios de salud y de asistencia social",
+                        "nombre_largo": "62 - Servicios de salud y de asistencia social"
+                    },
+                    {
+                        "name": "esparcimiento",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "71 - Servicios de esparcimiento culturales",
+                        "format": "default",
+                        "description": "Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos",
+                        "nombre_largo": "71 - Servicios de esparcimiento culturales y deportivos, y otros servicios recreativos"
+                    },
+                    {
+                        "name": "alojamiento",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "72 - Servicios de alojamiento",
+                        "format": "default",
+                        "description": "Servicios de alojamiento temporal y de preparación de alimentos y bebidas",
+                        "nombre_largo": "72 - Servicios de alojamiento temporal y de preparación de alimentos y bebidas"
+                    },
+                    {
+                        "name": "otros_servicios",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "81 - Otros servicios",
+                        "format": "default",
+                        "description": "Otros servicios excepto actividades gubernamentales",
+                        "nombre_largo": "81 - Otros servicios excepto actividades gubernamentales"
+                    },
+                    {
+                        "name": "actividades_gubernamentales",
+                        "type": "integer",
+                        "class": "industry",
+                        "column_name": "93 - Actividades legislativas",
+                        "format": "default",
+                        "description": "Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",
+                        "nombre_largo": "93 - Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales"
+                    },
+                    {
+                        "name": "demanda_final",
+                        "type": "integer",
+                        "class": "",
+                        "column_name": "",
+                        "format": "default",
+                        "description": "Demanda final",
+                        "nombre_largo": "Demanda final"
+
+                    },
+                    {
+                        "name": "cprv",
+                        "type": "integer",
+                        "class": "",
+                        "column_name": "",
+                        "format": "default",
+                        "description": "Consumo privado",
+                        "nombre_largo": "Consumo privado"
+
+                    },
+                    {
+                        "name": "cg",
+                        "type": "integer",
+                        "class": "",
+                        "column_name": "",
+                        "format": "default",
+                        "description": "Consumo de gobierno",
+                        "nombre_largo": "Consumo de gobierno"
+                    },
+                    {
+                        "name": "fbkf",
+                        "type": "integer",
+                        "class": "",
+                        "column_name": "",
+                        "format": "default",
+                        "description": "Formación bruta de capital fijo",
+                        "nombre_largo": "P.51b - Formación bruta de capital fijo"
+                    },
+                    {
+                        "name": "existencias",
+                        "type": "integer",
+                        "class": "",
+                        "column_name": "",
+                        "format": "default",
+                        "description": "Variación de existencias",
+                        "nombre_largo": "P.52 - Variación de existencias"
+                    },
+                    {
+                        "name": "exportaciones",
+                        "type": "integer",
+                        "class": "",
+                        "column_name": "",
+                        "format": "default",
+                        "description": "Exportaciones de bienes y servicios",
+                        "nombre_largo": "P.6 - Exportaciones de bienes y servicios"
+                    },
+                    {
+                        "name": "discrepancia",
+                        "type": "integer",
+                        "class": "",
+                        "column_name": "",
+                        "format": "default",
+                        "description": "Discrepancia estadística",
+                        "nombre_largo": "YA0 - Discrepancia estadística"
+                    }
+                ],
+                "missingValues": [
+                    ""
+                ]
+            }
+        }
+    ]
+}

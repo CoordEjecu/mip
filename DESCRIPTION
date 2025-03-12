@@ -1,13 +1,13 @@
-Package: templater
-Title: Template for R projects
+Package: mip
+Title: Matriz Insumo Producto
 Authors@R: c(
-    person(given = "nies futbol",
-           family = "nies futbol",
+    person(given = "Leonardo",
+           family = "Baez",
            role = c("aut", "cre", "cph"),
-           email = "nepo@nies.futbol"
+           email = "leonardo.baez@sonora.gob.mx"
            ))
 Config/testthat/edition: 3
-Description: Plantilla de Ciencia de Datos en nies.futbol para proyectos en R
+Description: Harramientas para trabajar los datos de matriz insumo producto con datos del INEGI
 Encoding: UTF-8
 Imports:
     R6,
@@ -15,10 +15,10 @@ Imports:
 LazyData: true
 License: AGPL-3.0-or-later
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.1.2
+RoxygenNote: 7.2.1
 Suggests:
     devtools,
     roxygen2,
     testthat
 Type: Package
-Version: 0.1.0
+Version: 0.0.1
