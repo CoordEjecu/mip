@@ -6,8 +6,6 @@ metadata <- fromJSON(json_file)
 
 mip_df <- read_csv("datos/conjunto_de_datos_mip_cdi_ixi_12018.csv", show_col_types = FALSE, col_types = cols(.default = "d", concepto = "c"))
 
-# mutate(moderado = `CPrv - Consumo privado` + `CG - Consumo de gobierno` + `P.51b - Formación bruta de capital fijo` + `P.52 - Variación de existencias` + 0.9 * `a P.6 - Exportaciones de bienes y servicios`)
-
 all_concepts <- mip_df |>
   pull(concepto)
 
