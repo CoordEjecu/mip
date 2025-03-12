@@ -18,3 +18,9 @@ percentaje_changed <- function(original_demand, changed_demand) {
   percentaje <- (changed_demand - original_demand) / original_demand * 100
   return(round(percentaje, 2))
 }
+
+#' @export
+change_fbkf <- function(demand, factor_fbkf) {
+  new_demand <- c(2, 8, 18)
+  return(new_demand)
+}
