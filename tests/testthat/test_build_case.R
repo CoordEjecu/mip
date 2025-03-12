@@ -37,6 +37,15 @@ describe("Change final demands", {
   })
 })
 
+describe("Change final demands", {
+  it("change fbkf: factor 1, 2, and 3", {
+    factor_fbkf <- c(1.0, 2.0, 3.0)
+    expected_demand <- c(2, 8, 18)
+    obtained_demand <- change_fbkf(demand, factor_fbkf)
+    expect_equal(obtained_demand, expected_demand)
+  })
+})
+
 describe("Calcualte percentaje changed", {
   it("Changed 10%", {
     originan_demand <- c(100, 100, 100)
