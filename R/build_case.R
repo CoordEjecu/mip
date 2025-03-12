@@ -26,3 +26,10 @@ change_fbkf <- function(demand, factor_fbkf) {
     dplyr::pull(final_demand)
   return(new_demand)
 }
+
+#' @export
+get_industry_column_name <- function(metadata) {
+  index <- metadata$resources$schema$fields[[1]]$class == "industry"
+  industry_name <- metadata$resources$schema$fields[[1]]$column_name[index]
+  return(industry_name)
+}

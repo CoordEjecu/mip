@@ -8,6 +8,11 @@ describe("set up", {
     obtained_name <- get_industry_name(metadata)
     expect_equal(obtained_name, expected_name)
   })
+  it("get industry column name", {
+    expected_name <- c("11 Agricultura", "21 Minería", "22", "23", "93")
+    obtained_name <- get_industry_column_name(metadata)
+    expect_equal(obtained_name, expected_name)
+  })
 })
 
 demand <- tibble::tibble(

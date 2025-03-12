@@ -37,6 +37,7 @@
                         "name": "agricultura",
                         "type": "integer",
                         "class": "industry",
+                        "column_name": "11 Agricultura",
                         "format": "default",
                         "description": "Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza",
                         "nombre_largo": "11 Agricultura, cría y explotación de animales, aprovechamiento forestal, pesca y caza"
@@ -45,6 +46,7 @@
                         "name": "mineria",
                         "type": "integer",
                         "class": "industry",
+                        "column_name": "21 Minería",
                         "format": "default",
                         "description": "Minería",
                         "nombre_largo": "21 Minería"
@@ -53,6 +55,7 @@
                         "name": "energia_agua_gas",
                         "type": "integer",
                         "class": "industry",
+                        "column_name": "22",
                         "format": "default",
                         "description": "Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final",
                         "nombre_largo": "22 Generación, transmisión, distribución y comercialización de energía eléctrica, suministro de agua y de gas natural por ductos al consumidor final"
@@ -61,6 +64,7 @@
                         "name": "contruccion",
                         "type": "integer",
                         "class": "industry",
+                        "column_name": "23",
                         "format": "default",
                         "description": "Construcción",
                         "nombre_largo": "23 Construcción"
@@ -69,6 +73,7 @@
                         "name": "actividades_gubernamentales",
                         "type": "integer",
                         "class": "industry",
+                        "column_name": "93",
                         "format": "default",
                         "description": "Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales",
                         "nombre_largo": "93 - Actividades legislativas, gubernamentales, de impartición de justicia y de organismos internacionales y extraterritoriales"
