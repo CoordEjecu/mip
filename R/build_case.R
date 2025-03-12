@@ -21,6 +21,8 @@ percentaje_changed <- function(original_demand, changed_demand) {
 
 #' @export
 change_fbkf <- function(demand, factor_fbkf) {
-  new_demand <- c(2, 8, 18)
+  new_demand <- demand |>
+    dplyr::mutate(final_demand = cprv + cg + fbkf * factor_fbkf + existencias + exportaciones) |>
+    dplyr::pull(final_demand)
   return(new_demand)
 }
