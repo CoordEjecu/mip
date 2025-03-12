@@ -36,13 +36,17 @@ demanda_final <- mip::change_exports(just_industries_rows, 1.0)
 demanda_intermedia <- liontief_inv %*% demanda_final
 
 # Primer escenario
-factor_fbkf <- c(1.1, rep(1,19))
+factor_fbkf <- c(1.1, rep(1, 19))
 demanda_final_settup_fbkf <- mip::change_fbkf(just_industries_rows, factor_fbkf)
 demanda_intermedia_fbkf <- liontief_inv %*% demanda_final_settup_fbkf
 percentaje_changed_fbkf <- mip::percentaje_changed(demanda_intermedia, demanda_intermedia_fbkf)
 
-fbkf <- demanda_intermedia_fbkf |> unname() |> as.numeric()
-original <- demanda_intermedia |> unname() |> as.numeric()
+fbkf <- demanda_intermedia_fbkf |>
+  unname() |>
+  as.numeric()
+original <- demanda_intermedia |>
+  unname() |>
+  as.numeric()
 
 column_names <- mip::get_industry_column_name(metadata)
 results <- tibble::tibble(
