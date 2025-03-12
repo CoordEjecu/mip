@@ -19,6 +19,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- Add report `reports/duty.pdf`
 - `get_industry_name()`
 - `datatable.json`
 - Examples: `src/ejemplo_del_marioamor.R` y `src/linkages_input-output.R`
