@@ -42,4 +42,14 @@ demanda_final_settup_1 <- mip::change_exports(just_industries_rows, 0.70)
 
 demanda_intermedia_1 <- liontief_inv %*% demanda_final_settup_1
 
-mip::percentaje_changed(demanda_intermedia, demanda_intermedia_1)
+percentaje_changed <- mip::percentaje_changed(demanda_intermedia, demanda_intermedia_1)
+print("Cambio en la demanda intermedia por exportacion:")
+print(percentaje_changed)
+
+factor_fbkf <- c(1.1, rep(1, 19))
+demanda_final_changed_fbkf <- mip::change_fbkf(just_industries_rows, factor_fbkf)
+
+demanda_intermedia_fbkf <- liontief_inv %*% demanda_final_changed_fbkf
+percentaje_changed_fbkf <- mip::percentaje_changed(demanda_intermedia, demanda_intermedia_fbkf)
+print("Cambio en la demanda intermedia por fbkf:")
+print(percentaje_changed_fbkf)
