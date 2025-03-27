@@ -29,7 +29,7 @@ reports/duty.tex: reports/non-tabular/results.json reports/templates/duty.tex
 
 reports/non-tabular/results.json:
 	$(checkDirectories)
-	echo '{"rise_fbkf":10, "neto_fbkf":7174, "rise_neto_agriculture": 7804, "rise_agriculture": 0.63, "out_agriculture": 1240506, "changed_out_agriculture": 1248310, "rise_neto_all_industries": 10150}' > reports/non-tabular/results.json
+	echo '{"rise_fbkf":10, "neto_fbkf":7174, "rise_neto_agriculture": 7804, "rise_agriculture": 0.63, "out_agriculture": 1240506, "changed_out_agriculture": 1248310, "rise_neto_all_industries": 10150, "Variable": 88}' > reports/non-tabular/results.json
 
 reports/tables/changed_percentaje.csv: src/ejemplo_del_marioamor.R
 	$(checkDirectories)
