@@ -148,3 +148,14 @@ La aplicación de la MIP ha llevado a una extensión y desarrollo de metodologí
  También, la Matriz de Contabilidad Social (MCS) que permite analizar el fujo de ingresos entre agentes económicos, y los modelos multirregionales, que identifican flujos sectoriales y comerciales interregionales, (Schuschny, 2005; Beltran Jaimes et al., 2005).
 La MIP ha resultado valiosa en la formulación de políticas económicas y en la evaluación del impacto de choques externos, como la crisis sanitaria de COVID-19, (Murillo-Villanueva, Almonte y Carbajal-Suarez, 2020).
 Debido a su evolución metodológica y su aplicación en diversos niveles de agregación han hecho de la MIP una herramienta fundamental para el análisis económico, para identificar los sectores estratégicos y facilitar la planificación de políticas económicas.
+
+\newpage
+
+```{r read_arg, include=FALSE}
+cambios <- readr::read_csv("/workdir/reports/tables/changed_percentaje.csv")
+```
+
+```{r echo=FALSE}
+knitr::kable(cambios, caption="La tabla del Mario Amor")
+```
+
