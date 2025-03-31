@@ -1,0 +1,142 @@
+# Introducción.
+Para Del moral y Murillo (2015), el sector primario ha sido históricamente considerado como uno de los sectores más relevantes para la economía internacional por su impacto económico y social.
+Por su parte, Palma-García (2014) señalan que la ganadería a nivel global representa el 40% del producto interno bruto agrícola, y es fuente de empleo para 1.30 millones de personas de escasos recursos.
+Por otro lado, investigaciones como las de Chauvet (1997), Chauvet (1999), Ríos y Castillo (2015) y Montaño et al. (2021) indican que la producción de carne bovina es una actividad económica muy importante porque genera valor agregado, divisas y abona a la seguridad alimentaria de los países. 
+
+Hasta el año 2015, los máximos expositores en producción de carne eran Brasil con 15.2%, India con 15%, Estados Unidos con 6.6% y México con 2.3%.
+En cuanto a las exportaciones de cabezas en pie, Francia concentraba el 13.4%, México el 11.8% y Canadá el 10.2%. En las importaciones de cabezas en pie Estados Unidos encabezaba este rubro con 21.5%, seguido por Italia con 12.8%.
+La producción de carne bovina también era encabezada por Estados Unidos con 19.2%, después Brasil con 14.4%, China con 9.9% y México con 2.9%.
+En lo referente a la exportación de carne, Brasil ocupa el primer puesto con 14.3%, seguido por Australia con 12.8%, después Estados Unidos con 9.8% e Italia con 6.7%, (Carrera-Chávez, Gómez-Cruz y Rita Schwentesius, 2015).
+
+En México la ganadería constituye un sector económico importante, su actividad abarca más de la mitad del territorio nacional para todas sus etapas de producción, procesamiento y comercialización.
+En el año 2008, este sector generó 14.1% del total de empleos en el sector agropecuario y aportó el 50.3% del producto en dicho sector.
+La producción de carne en México en 2011 contribuyó con 30.5% del total de la producción de carne en canal, alcanzando 1.83 millones de toneladas.
+Además, representa el 9.2% del volumen total de alimentos producidos en el sector pecuario nacional y aporta el 23% de su valor total.
+En términos concretos, la producción anual de carne en el país en 2011 fue de 1.79 millones de toneladas, generó 1.1 millones de empleos directos y 3 millones de empleos indirectos (Del moral y Murillo 2015). 
+
+Sin embargo, la pérdida de competitividad de la producción de carne bovina en México es un tema recurrente en la literatura.
+Del Moral-Barrera y Murillo-Villanueva (2015) utilizan el índice de Vollrath para demostrar que México ha perdido competitividad en el mercado mundial de carne de bovino.
+Al mismo tiempo, Carrera-Chávez et al. (2015) atribuyen esta pérdida de competitividad a los bajos precios de la carne importada desde Estados Unidos, favorecidos por los altos subsidios que reciben los productores estadounidenses.
+A pesar de la relevancia de la ganadería en la economía nacional y del crecimiento en las exportaciones, y en particular, las exportaciones de ganado en pie, es necesario cuestionar si esta estrategia realmente maximiza los beneficios económicos para México y Sonora.
+Si bien las exportaciones reflejan una inserción en el mercado global, también evidencia una oportunidad desaprovechada: el procesamiento local del ganado podría generar mayor valor agregado, impulsar la industria cárnica y fortalecer la economía regional rural.
+
+# El costo de oportunidad de la producción de carne en Sonora.
+Sonora es reconocida como uno de los principales productores y exportadores de carne y ganado en México. 
+Frecuentemente se exponen sus cifras de exportación con orgullo, celebrando el prestigio internacional de su ganado en píe.
+
+No obstante, detrás de este éxito aparente, se esconde una realidad que afecta a pequeños productores, consumidores locales y al propio mercado interno local.
+
+Para abordar la situación planteada en el párrafo anterior se toma al concepto de costo de oportunidad propuesto por la ciencia económica como un filtro de análisis porque se considera que es clave para comprender dicha situación.
+Este concepto nos muestra el valor de la alternativa sacrificada al tomar una decisión.
+Para el caso de Sonora, priorizar la exportación de ganado en pie sobre el desarrollo local genera costos de oportunidad significativos para distintos actores.
+
+En este escrito sostenemos que la estructura actual del mercado favorece sólo a las grandes empresas que cuentan con los recursos necesarios para cumplir con los estándares internacionales de exportación y la capacidad logística y económica para sacrificar ganado bovino en los rastros Tipo inspección Federal (TIF ).
+En contraste, los pequeños productores se limitan a la crianza y venta de ganado en pie debido a los altos costos asociados la logística y el sacrificio del ganado, lo que los relega a la parte más baja de la cadena de valor.
+ 
+ Como resultado, su margen de ganancias es reducido y depende de intermediarios para comercializar su ganado, perpetuando su vulnerabilidad económica.
+ Sin embargo, desde la perspectiva del costo de oportunidad, estos pequeños productores podrían obtener un mayor valor añadido si tuvieran acceso a la infraestructura necesaria para integrarse al mercado de carne procesada, permitiéndoles capturar una mayor parte de los beneficios.
+ En el caso hipotético que los pequeños productores lograran capturar una mayor parte de los beneficios dentro de la cadena productiva, se generaría un impacto positivo en varios rubros.
+ En primer lugar, al acceder a la infraestructura de sacrificio y procesamiento de carne, podrían vender su producto con mayor valor agregado en lugar de depender de intermediarios, lo que aumentaría sus ingresos y reduciría su vulnerabilidad económica
+
+Al mismo tiempo se incentivaría la inversión en mejores prácticas de producción, sanidad y trazabilidad, fortaleciendo la calidad del producto y su competitividad en el mercado. 
+
+Además, al distribuir de manera mas equitativa los beneficios dentro del sector ganadero, se impulsaría el desarrollo local, fomentando la generación de empleo y el crecimiento económico en las comunidades rurales.
+En el largo plazo, esto contribuiría a una mayor estabilidad del sector, disminuyendo la concentración del mercado y promover una estructura más inclusiva y sostenible y fuerte ante choques políticos y económicos externos.
+Para lo consumidores de carne en Sonora, la exportación de ganado en pie representa un costo de oportunidad importante.
+Al priorizar la venta de reses vivas al mercado internacional, se reduce la disponibilidad de carne procesada a nivel local, lo que eleva su precio y la convierte en producto inaccesible para muchas familias.
+Esta dinámica genera una paradoja: Sonora es un estado con una fuerte producción ganadera, pero una gran parte de su población enfrente dificultades para consumir carne de calidad debido a los altos costos.
+En este sentido, el costo de oportunidad para los consumidores locales radica en la pérdida de acceso a carne asequible y de calidad.
+
+Finalmente, el enfoque en la exportación limita el desarrollo de un mercado interno robusto que pueda generar beneficios económicos sostenibles.
+Este enfoque debilita la cadena de valor interna y frena el desarrollo de la industria cárnica.
+El costo de oportunidad de esta decisión es un mercado más justo e inclusivo que podría generar empleo, incrementar los ingresos de los pequeños productores y proporcionar carne a precios competitivos.
+El actual modelo productivo beneficia a unos pocos a costa de muchos.
+Si bien es cierto que las exportaciones son una fuente importante de ingresos, es necesario preguntarse: ¿qué se está sacrificando para mantener este modelo?
+
+Una estrategia que combine el impulso a las exportaciones con fortalecimiento del mercado interno podría reducir los costos de oportunidad, integrando a los pequeños productores en la cadena de valor, haciendo la carne más accesible para los consumidores locales y diversificando las fuentes de ingreso del Estado.
+
+La priorización de la exportación de ganado en pie sobre el desarrollo de la industria cárnica local revela un dilema estructural en la ganadería sonorense.
+Este modelo no es fortuito, sino el resultado de un proceso más amplio de transformación económica impulsado por políticas de apertura comercial, reconfiguración del mercado agropecuario y cambios en la dinámica global de producción y consumo de carne.
+Resulta crucial un replanteamiento, no obstante, exige voluntad política, inversión en infraestructura y una visión estratégica que reconozca que el éxito de Sonora no se mide por sus cifras de exportación, sino por la prosperidad compartida entre sus actores económicos.
+Para comprender cómo Sonora llegó a esta situación, se hace un breve recuento sobre los efectos de la apertura económica mexicana en la estructura del sector pecuario y ganadero.
+A partir de la liberalización comercial y la integración de México a los mercados internacionales, el modelo productivo y las oportunidades para los distintos actores del sector han cambiado significativamente, consolidando un esquema en el que las exportaciones de ganado en pie han sido privilegiadas sobre el fortalecimiento de una cadena de valor interna. 
+
+# De la apertura económica al alto costo de oportunidad: el impacto en la ganadería sonorense
+México inició su proceso de apertura económica en la década de 1980.
+En este proceso se sometió a la política industrial al modelo de crecimiento hacia afuera lo que ha resultado en 30 años de éxito externo y fracaso interno.
+
+Es las exportaciones han sido lo único que ha crecido, no obstante, es importante señalar que las exportaciones tienden a incorporar poco valor agregado y a tener bajo nivel de encadenamiento con el resto de la estructura productiva (Morales-López, 2023).
+
+Por su parte Vidaurrazaga y Cortez (2000) destacan que en la práctica la apertura comercial no solo fue unilateral, sino que también significó la reducción de inversión pública, reducción de apoyo gubernamentales, eliminación de subsidios.
+En este contexto de desigualdad competitiva, el aparato productivo nacional se enfrentó a la competencia internacional lo que llevó a muchas empresas a la quiebra y desaparición, sobre todo pequeñas y medianas empresas.
+Los mismos autores resaltan que el sector pecuario fue de los más perjudicados en este proceso de apertura económica.
+Antes del proceso de apertura comercial, durante el periodo 1940 – 1982 el Estado mexicano protegió parcialmente a este sector.
+
+No obstante, dentro de la dinámica de apertura el Estado retiró su apoyo institucional provocando que el sector pecuario se descapitalizara de una manera veloz y redujo enormemente sus posibilidades de competencia internacional.
+Sin embargo, mientras México retiraba su apoyo al sector agropecuario, según López-Calva (1994), países como Estados Unidos, Canadá y países de la Unión Europea intensificaron su intervención en el ámbito agropecuario, llegando incluso a una competencia de subsidios para potenciar la competitividad de sus productos en el mercado internacional.
+En contraste, México llevó a cabo una eliminación o reducción apresurada de los programas de apoyo al sector agropecuario.
+Si bien es verdad que el Tratado de Libre Comercio reconoció las diferencias existentes entre los países firmantes y estableció plazos para aquellos productos agropecuarios donde existía desigualdad en su producción y así tener el tiempo de ganar competitividad y abrirse a la competencia internacional. 
+El ganado bovino en pie, la carne en canal o en sus diferentes presentaciones se liberaron inmediatamente al iniciar el Tratado de Libre Comercio sin tener el tiempo y el apoyo para adquirir competitividad para hacer frente a la competencia internacional (Morales-López, 2023).
+
+En este sentido, Chauvet (1991) subraya que la integración de la producción pecuaria mexicana a la economía internacional, la ganadería en su conjunto y en particular la de bovinos fue gravemente afectada por la apertura económica ya que podía profundizar la tendencia al incremento de las importaciones, en lugar de impulsar la producción y la productividad.
+En general, la apertura comercial ha generado beneficios en términos de exportaciones, sin lograr un desarrollo productivo robusto y equilibrado dentro del país. 
+A pesar de que la ganadería bovina es una actividad muy arraigada a la historia, a la cultura y a la dieta de los sonorenses, a partir de 1990 su producción cayó en comparación a la actividad porcina. 
+La producción porcina incrementó en 60% y la actividad bovina decreció en 15% (Del Pardo y Flores, 2000).
+
+De igual forma, durante este periodo se encarecieron los insumos productivos, los costos de operación y el financiamiento fue escaso.
+Esta serie de elementos se conjugaron y se expresaron en la disminución del hato, una caída de la actividad de engorda y el incremento de la exportación de becerros hacia Estados Unidos (Ballesteros, Moreno y Salomón, 2002).
+
+
+La producción de ganado en pie para su exportación constituye una parte de los primeros eslabones de la cadena productiva ganadera, las fases siguientes continúan en los corrales de engorda intensiva en Arizona.
+Desafortunadamente es a partir de aquí donde la actividad genera más rentabilidad y es justamente en estas etapas que Sonora ha dejado de hacer.
+Debido a la situación desfavorable que enfrentan los productores de ganado en pie están obligados a vender su ganado al destete, (Ballesteros, Moreno y Salomón, 2002).
+Esta estrategia evidencia el incremento de las exportaciones, sin embargo, al abandonar las fases posteriores al destete son las que agregan más valor al animal, así el productor sonorense se ha vuelto dependiente de intermediarios y se ha convertido en el eslabón más vulnerable a los cambios del precio internacional de los insumos y de la carne, (Ballesteros, Moreno y Salomón, 2002).
+
+Según Salazar y Borbón (2000) al productor sonorense le toma 18 meses para producir un becerro.
+Este periodo incluye desde la preñez hasta que el becerro alcanza su peso de venta.
+Durante este lapso el productor carga con todos los cotos.
+El proceso toma 75% del costo total del animal de 400Kg.
+
+Por su parte, la comercialización consta de subsistemas; producción, distribución, consumo y de regulación, (Frigerio y Shuetz, 1999). 
+Por otro lado, hay quienes señalan que la red de intermediación entre el producto el comprador norteamericano es muy amplia, los grandes compradores trabajan por medio de agentes regionales y locales para asegurar la compra del ganado en pie, (Pérez, 1993).
+Por lo general, los intermediarios son empleados de quienes a su vez son subordinados de algún exportador que se ubica en la frontera y que tiene trato directo con los norteamericanos, (Ballesteros, Moreno y Salomón, 2002).
+	
+# De la dependencia exportadora a la Autosuficiencia cárnica: la guerra arancelaria actual y el costo de oportunidad en la ganadería de Sonora.
+La dependencia de la exportación de ganado en pie hacia Estados Unidos expone a la ganadería sonorense a riesgos significativos, particularmente en el contexto actual de la guerra arancelaria que pretende imponer el nuevo presidente de los Estados Unidos Donald Trump.
+La imposición de aranceles a todos los productos mexicanos afecta directamente a la rentabilidad del sector, encareciendo la comercialización de ganado y reduciendo aun mas la competitividad de los productores de Sonora en su principal mercado de exportación.
+Lo anterior es indicio de la falta de diversificación del sector que ha apostado por la exportación en lugar de fortalecer su industria cárnica local, dejándolo expuesto a las políticas y economía de su principal socio comercial.
+La imposición de aranceles no solo afectaría a los exportadore de ganado en pie sino también a toda la cadena vinculada con esta actividad, generando un efecto dominó en la economía local.
+En un contexto donde las exportaciones de ganado son afectadas por medidas proteccionistas, la falta de un mercado interno sólido parala carne procesada agravaría aún más la crisis, al no existir una alternativa viable para redirigir la producción hacia el consumo local.  
+Sin embargo, los efectos de esta guerra arancelaria serian menos severos si Sonora prioriza la producción y comercialización de carne en lugar de centrarse en la exportación de ganado en pie. Desarrollar una industria cárnica local permitiría capturar mayor valor agregado, fortalecer la economía regional y reducir la dependencia de un solo mercado.
+La infraestructura para el procesamiento de carne generaría empleos, fomentaría la inversión, y mejoraría la calidad del producto, haciendo que la carne sonorense pudiera competir en mercados nacionales e internacionales sin depender exclusivamente de la exportación de reses vivas.
+Además, al reducir la salida de ganado en pie y procesarlo localmente, se incrementaría la oferta de carne en el mercado local, lo que ayudaría a estabilizar los precios y mejorar el acceso para los consumidores.
+Esto no solo beneficia a la población local, sino que también impulsaría una red de valor mas equitativa, en a que los pequeños productores tendrían mayores oportunidades de participación y crecimiento.
+Asimismo, la diversificación del mercado reduciría el impacto de fluctuaciones externas, creando una industria más resiliente ante cambios en la política comercial de Estados Unidos.
+
+Para sustentar esta estrategia, el uso de la Matriz Insumo-Producto (MIP) es clave, ya que permite medir el impacto económico de cada decisión en la estructura productiva.
+Con esta herramienta, se puede analizar lo que Sonora pierde al mantener su modelo de exportación de ganado en pie y lo que pudiera ganar al priorizar la producción de carne.
+La matriz permite calcular el efecto multiplicador de ambas estrategias en términos de empleo, ingresos y crecimiento económico, demostrando que el proceso local de carne no solo reduciría el costo de oportunidad de la exportación, son que también fortalecería la economía de Sonora en un contexto de incertidumbre comercial.
+
+# Antecedentes y revisión de literatura breve del modelo Matriz Insumo-Producto
+El modelo Matriz Insumo-Producto (MIP) es una herramienta analítica desarrollada por Wassily Liontief que permite estudiar las interrelaciones entre los sectores productivos de una economía.
+Su objetivo principal es presentar los flujos de bienes y servicios dentro de un sistema económico, proporcionando información clave sobre la estructura productiva y los encadenamientos sectoriales.
+En términos generales, la composición de la MIP está compuesta por tres matrices.
+La primera de ellas se refiere a la demanda intermedia y muestra el flujo de compras, y ventas entre sectores.
+La segunda matriz se vincula con el valor agregado y refleja los pagos al capital y al trabajo, impuestos y subsidios.
+Por último, la tercera matriz se conecta con la demanda final y describe el consumo de hogares, el consumo público, la inversión y la variación de existencias, (Hernández, 2012).
+La aplicación de la MIP permite analizar los efectos de cambios en la demanda final sobre la producción total y determinar los sectores clave para la formulación de políticas públicas, (Razo, Romero y Herrera, 2019).
+
+La MIP ha sido utilizada en México para evaluar estructuras productivas estatales y regionales. Su aplicación permitió identificar la concentración industrial en determinadas zonas, evaluar los encadenamientos productivos y determinar el valor agregado de las exportaciones (Morales-López, 2023).
+A nivel metodológico, se han desarrollado enfoques como el método de extracción hipotética, que mide la importación de un sector dentro de la economía en función de su impacto en el Valor Bruto de producción (VBP) al ser extraído del sistema (Linden, 1999).
+
+Los primeros antecedentes de la MIP pueden ubicarse con el “Tableau économique” de François Quesnay en el siglo XVIII, pero su formalización moderna se debe a Leontief en la década de 1940, con contribuciones posteriores de Isard (1951), Chenery (1953) y Moses (1955) en el ámbito de las matrices interregionales (Tovar Martínez, 2018).
+En México, las aplicaciones de la MIP han sido ampliamente documentadas, destacándose trabajos como el de Boundi Chraki (2016) y Chenery y Watanabe (1958), quienes ubicaron sectores clave y encadenamientos productivos. 
+
+Estudios más recientes, como el de Cardona Reséndiz et al. (2018), han confirmado la clasificación de sectores estratégicos en la economía mexicana.
+Por su parte, Dávila-Flores y Valdez-Ibarra (2013) evaluaron la evolución de la competitividad sectorial en entidades como Jalisco.
+La aplicación de la MIP ha llevado a una extensión y desarrollo de metodologías indirectas y/o avanzadas para estimar matrices regionales a nivel subnacional.
+
+ Por ejemplo, Fuentes et al. (2015) destacan el uso de coeficientes de localización y técnicas de ajuste como el método FLQ (Flegg y Webber, 1997) para mejorar la precisión de las estimaciones regionales.
+ También, la Matriz de Contabilidad Social (MCS) que permite analizar el fujo de ingresos entre agentes económicos, y los modelos multirregionales, que identifican flujos sectoriales y comerciales interregionales, (Schuschny, 2005; Beltran Jaimes et al., 2005).
+La MIP ha resultado valiosa en la formulación de políticas económicas y en la evaluación del impacto de choques externos, como la crisis sanitaria de COVID-19, (Murillo-Villanueva, Almonte y Carbajal-Suarez, 2020).
+Debido a su evolución metodológica y su aplicación en diversos niveles de agregación han hecho de la MIP una herramienta fundamental para el análisis económico, para identificar los sectores estratégicos y facilitar la planificación de políticas económicas.
