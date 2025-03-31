@@ -19,8 +19,8 @@ define renderLatex
 	cd $(<D) && pdflatex $(<F)
 endef
 
-texto.pdf: reports/Costo_oportunidad.md reports/tables/changed_percentaje.csv
-	pandoc -s -o $@ reports/Costo_oportunidad.md
+texto.pdf: reports/Costo_oportunidad.Rmd reports/tables/changed_percentaje.csv
+	Rscript -e "rmarkdown::render('reports/Costo_oportunidad.Rmd', param=list(args=3))"
  
 reports/duty.pdf: reports/duty.tex reports/tables/changed_percentaje.csv
 	$(renderLatex)
