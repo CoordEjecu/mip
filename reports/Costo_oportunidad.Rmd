@@ -1,3 +1,11 @@
+---
+title: "Costo de oportunidad"
+output:
+  pdf_document: default
+params:
+  args: myarg
+---
+
 # Introducción.
 Para Del moral y Murillo (2015), el sector primario ha sido históricamente considerado como uno de los sectores más relevantes para la economía internacional por su impacto económico y social.
 Por su parte, Palma-García (2014) señalan que la ganadería a nivel global representa el 40% del producto interno bruto agrícola, y es fuente de empleo para 1.30 millones de personas de escasos recursos.
