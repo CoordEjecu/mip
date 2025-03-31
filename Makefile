@@ -19,6 +19,9 @@ define renderLatex
 	cd $(<D) && pdflatex $(<F)
 endef
 
+texto.pdf: reports/Costo_oportunidad.md
+	pandoc -s -o $@ reports/Costo_oportunidad.md
+ 
 reports/duty.pdf: reports/duty.tex reports/tables/changed_percentaje.csv
 	$(renderLatex)
 
