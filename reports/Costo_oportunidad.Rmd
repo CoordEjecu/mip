@@ -159,3 +159,19 @@ cambios <- readr::read_csv("/workdir/reports/tables/changed_percentaje.csv")
 knitr::kable(cambios, caption="La tabla del Mario Amor")
 ```
 
+# Análisis del impacto arancelario en las exportaciones: Una aplicación de la Matríz Insumo-Producto
+En este trabajo se ha destacado la relevancia del sector primario y ganadero para México y el mundo. En el caso especifico del estado de Sonora, se observa una clara priorización de la exportación de ganado en pie, en detrimento del procesamiento local para produccion de carne, 
+lo cual limita el potencial de generación de valor agregado y, por ende, de mayores beneficios económicos. Esta tendencia exportadora no es casual, sino resultado de la apertura económica iniciada en la década de 1980, que consolidó un modelo de crecimiento hacia afuera. Este modelo, 
+si bien este modelo fortaleció las exportaciones, tambien desprotegió y debilitó al sector primario, especialmente la gandería bovina, al retirar los apoyos institucionales y exponerla a una competencia internacional desigual. Como consecuencia, Sonora y gran parte del país ha desarrollado una marcada dependencia de las exportaciones,
+especialmente con Estados Unidos, lo que expone al sector a riesgos importantes frente a cambios en la politica comercial de dicho país. En este contexto, en este apartado se quiere utilizar la Matríz de Insumo-Producto como herramienta para analizar en primer instancia el posible impacto de los aranceles anunciados por el Presidente Donald Trump,
+y mostrar de manera clara la vulnerabilidad y dependecia exportadora de Sonora.
+
+En este sentido, con datos de INEGI y siguiendo la metodología propuesta por Wassily Leontief se construyó una Matríz de Insumo-Producto para México. En apartados precedentes se señaló que esta herramienta permite representar y estudiar las interrelaciones entre los sectores productivos de una economía. 
+Como resultado se obtuvo la tabla 1, en ella se observan todas las actividades económicas, de acuerdo con la clasificación de INEGI, acompañadas de tres posibles escenarios en caso de que las exportaciones se enfrenten a un arancel generalizado de 10% (escenario 1), de 25% (escenario 2)
+y de 30% (escenario 3). En primera instancia, si los aranceles se incrementan en 10% las exportaciones mexicanas caerían en promedio -2.5%, siendo la agricultura, cría y explotación de animales, la minería y la industria manufacturera con una contracción del -4.59%, 6.38% y 5.13% respectivamente. Al revisar el efecto promedio en este primer escenario la caída de las exportaciones sería del -2.5%.
+Por su parte, si el incremento de los aranceles es del 25% las exportaciones disminuirían en -6.2%,  en promedio. En este escenario el efecto es mayor, para la agricultura, cría y explotació de animales, la minería y la industria manufacturera el impacto sería de dos digitos; -11.5%, -16% y -12.8% respectivamente. Por otro lado, se observan más actividades afectadas en este escenario, por ejemplo, 
+las exportaciones de generación, distribución y comercialización "" caería en -5.4%, el comercio al por mayor y al por menor lo haría en -6.5%. Por último, si los aranceles se imponen por 30% el efecto en las exportaciones se agudiza. Las exportaciones de la agricultura, cría y explotación de animales, la minería y la industria manufacturera
+sufrirían un contracción del -13.8%, -19.1% y -15.4% respectivamente.
+
+
+
