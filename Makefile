@@ -66,8 +66,8 @@ setup: clean install
 install:
 	R -e "devtools::document()" && \
     R CMD build . && \
-    R CMD check mip_0.0.1.tar.gz && \
-    R CMD INSTALL mip_0.0.1.tar.gz
+    R CMD check mip_0.0.2.tar.gz && \
+    R CMD INSTALL mip_0.0.2.tar.gz
 
 tests:
 	Rscript -e "devtools::test(stop_on_failure = TRUE)"
