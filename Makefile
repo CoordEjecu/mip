@@ -29,7 +29,7 @@ reports/duty.tex: reports/non-tabular/results.json reports/templates/duty.tex
 
 reports/non-tabular/results.json:
 	$(checkDirectories)
-	echo '{"rise_fbkf":10, "neto_fbkf":7174, "rise_neto_agriculture": 7804, "rise_agriculture": 0.63, "out_agriculture": 1240506, "changed_out_agriculture": 1248310, "rise_neto_all_industries": 10150}' > reports/non-tabular/results.json
+	echo '{"rise_fbkf":10, "neto_fbkf":7174, "rise_neto_agriculture": 7804, "rise_agriculture": 0.63, "out_agriculture": 1240506, "changed_out_agriculture": 1248310, "rise_neto_all_industries": 10150, "aumento_porcentaje_duty": 41.5}' > reports/non-tabular/results.json
 
 reports/tables/changed_percentaje.csv: src/ejemplo_del_marioamor.R
 	$(checkDirectories)
@@ -66,8 +66,8 @@ setup: clean install
 install:
 	R -e "devtools::document()" && \
     R CMD build . && \
-    R CMD check mip_0.0.1.tar.gz && \
-    R CMD INSTALL mip_0.0.1.tar.gz
+    R CMD check mip_0.0.2.tar.gz && \
+    R CMD INSTALL mip_0.0.2.tar.gz
 
 tests:
 	Rscript -e "devtools::test(stop_on_failure = TRUE)"
