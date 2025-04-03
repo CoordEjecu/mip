@@ -1,4 +1,4 @@
-all: check coverage
+all: reports/Costo_oportunidad.pdf reports/duty.pdf
 
 .PHONY: \
     check \
@@ -19,7 +19,7 @@ define renderLatex
 	cd $(<D) && pdflatex $(<F)
 endef
 
-texto.pdf: reports/Costo_oportunidad.Rmd reports/tables/changed_percentaje.csv
+reports/Costo_oportunidad.pdf: reports/Costo_oportunidad.Rmd reports/tables/changed_percentaje.csv
 	Rscript -e "rmarkdown::render('reports/Costo_oportunidad.Rmd', param=list(args=3))"
  
 reports/duty.pdf: reports/duty.tex reports/tables/changed_percentaje.csv
@@ -51,10 +51,10 @@ clean:
 	rm --force *.tar.gz
 	rm --force --recursive tests/testthat/_snaps
 	rm --force NAMESPACE
-	rm --force --recursive reports/duty.*
+	rm --force reports/duty.*
 	rm --force reports/tables/changed_percentaje.csv
 	rm --force reports/non-tabular/results.json
-	rm --force texto.pdf
+	rm --force reports/Costo_oportunidad.pdf
 
 coverage: setup tests
 	Rscript tests/testthat/coverage.R
