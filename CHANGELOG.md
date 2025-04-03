@@ -19,8 +19,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- [] Mudamos reporte Costo de oportunidad desde el respositorio `carne`
-- [] Agregamos todos los reportes al artefacto
+- [x] Mudamos reporte Costo de oportunidad desde el respositorio `carne`
+- [x] Agregamos todos los reportes al artefacto
 
 ## [0.0.2] - 2025-04-02
 
