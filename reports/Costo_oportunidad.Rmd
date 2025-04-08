@@ -214,4 +214,9 @@ La estructura productiva de esta entidad ha sido moldeada historicamente por la 
 Por ello, en este trabajo se propone aplicar la Matríz Insumo-Producto con el objetivo de observar y cuantificar los efectos económicos que podrían derivarse de la nueva politica comercial estadounidense.
 
 ## Efectos de la nueva política comercial estadounidense en la economia de Sonora
+Acorde con los datos contenidos en la Matríz Insumo-Producto publicados por INEGI se aprecia que Sonora exporta el 65% de su fabricación de equipos de cómputo y automotríz.
+Por su parte, la agricultura sonorense exporta el 45% de su producción. 
+Mientras que la minería exporta el 24% de su producción. 
+Por último, la produccion de derivados del petroleo y la cría y explotación de animales exportan el 18% y el 6% respectivamente.
+
 
