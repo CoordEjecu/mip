@@ -206,5 +206,5 @@ La estructura productiva de esta entidad ha sido moldeada historicamente por la 
 Por ello, en este trabajo se propone aplciar la Matríz Insumo-Producto con el objetivo de observar y cuantificar los efectos económicos que podrían derivarse de estos cambios en la politica comercial estadounidense, centrandonos en el caso de Sonora y su cadena ganadera y así,
 medir los posibles impactos, en terminos de producción, encadenamientos productivos y vulnerabilidad económica regional.
 
-##Efectos de la nueva política comercial estadounidense en la economia de Sonora
+## Efectos de la nueva política comercial estadounidense en la economia de Sonora
 
