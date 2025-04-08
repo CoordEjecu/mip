@@ -201,15 +201,17 @@ Una de las conclusiones fue la redifinición de la estrategía de desarrollo pro
 En la CONAGO se propuso incrementar la productividad e inversión en infraestructura para fortalezca el mercado interno.
 De lo contrario, el país seguirá dependiendo del vaivén de las politicas comerciales de Estados Unidos, sin capacidad de respuesta ni autonomía económica.
 
-Sonora es una de las entidades del norte de México que históricamente ha sido de las más integradas a la economía estadounidense, debido a su ubicación y su orientación exportadora, especielmente, en sectores como la ganadería, agroindustria y manufactura.
-Esta cercanía ha impulsado el desarrollo regional, pero tambien ha generado una fuerta dependencia de las condiciones comerciales con país vecino del norte.
-Con la apertura económica de la decada de 1980 y la firma del TLCAN, Sonora intensifico su perfil exportador, especialemente en el envío de ganado bovino en pie, en lugar de desarrollar cadenas de valor locales como la industria carnica.
-Este patrón ha limitado el valor agregado generado en la región y ha hecho al estado particularmente vulnerable a cambios en politicas arancelarias estadounidenses, como las propuestas por Donald Trump
-Dado el contexto previamente expuesto y los resultados obtenidos an ivel nacional, resulta pertinente trasladar el analisis hacia el hambito regional, especialmente en Sonroa, cuya economía mantiene una fuerte orientación exportadora, particularmente el sector ganadero.
+Sonora es una de las entidades del norte de México que históricamente ha sido de las más integradas a la economía estadounidense, debido a su ubicación y su orientación exportadora.
+Las exportaciones nacionales en la agricultura son de 43%, de minería es 79% y la manufacturera 57%.
+Esta cercanía ha impulsado el desarrollo regional, pero tambien ha generado una fuerta dependencia de las condiciones comerciales con el país vecino del norte.
+Con la apertura económica de la decada de 1980 y la firma del TLCAN, Sonora intensifico su perfil exportador, especialemente en el envío de ganado bovino en pie.
+No obstante, no se ha lorgado consolidar cadenas de valor locales como la industria cárnica.
+Este patrón ha limitado el valor agregado generado en la región y ha hecho al estado particularmente vulnerable a cambios en politicas arancelarias estadounidenses.
 
-La estructura productiva de esta entidad ha sido moldeada historicamente por la cercanía con Estados Unidos y por políticas que han incentivado la exportacion de ganado en pie, en lugar de fomentar la industrialización local de carne.
-Por ello, en este trabajo se propone aplciar la Matríz Insumo-Producto con el objetivo de observar y cuantificar los efectos económicos que podrían derivarse de estos cambios en la politica comercial estadounidense, centrandonos en el caso de Sonora y su cadena ganadera y así,
-medir los posibles impactos, en terminos de producción, encadenamientos productivos y vulnerabilidad económica regional.
+Dado el contexto previamente expuesto y los resultados obtenidos a nivel nacional, resulta pertinente trasladar el analisis hacia el ámbito regional.
+Sonroa mantiene una economía con fuerte orientación exportadora, particularmente el sector ganadero.
+La estructura productiva de esta entidad ha sido moldeada historicamente por la cercanía con Estados Unidos y por políticas que han incentivado la exportacion de ganado en pie. 
+Por ello, en este trabajo se propone aplicar la Matríz Insumo-Producto con el objetivo de observar y cuantificar los efectos económicos que podrían derivarse de la nueva politica comercial estadounidense.
 
 ## Efectos de la nueva política comercial estadounidense en la economia de Sonora
 
