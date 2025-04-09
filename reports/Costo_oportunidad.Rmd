@@ -7,7 +7,7 @@ params:
 ---
 
 # Introducción.
-Para Del moral y Murillo (2015), el sector primario ha sido históricamente considerado como uno de los sectores más relevantes para la economía internacional por su impacto económico y social.
+Para Del Moral y Murillo (2015), el sector primario ha sido históricamente considerado como uno de los sectores más relevantes para la economía internacional por su impacto económico y social.
 Por su parte, Palma-García (2014) señalan que la ganadería a nivel global representa el 40% del producto interno bruto agrícola, y es fuente de empleo para 1.30 millones de personas de escasos recursos.
 Por otro lado, investigaciones como las de Chauvet (1997), Chauvet (1999), Ríos y Castillo (2015) y Montaño et al. (2021) indican que la producción de carne bovina es una actividad económica muy importante porque genera valor agregado, divisas y abona a la seguridad alimentaria de los países. 
 
@@ -16,42 +16,54 @@ En cuanto a las exportaciones de cabezas en pie, Francia concentraba el 13.4%, M
 La producción de carne bovina también era encabezada por Estados Unidos con 19.2%, después Brasil con 14.4%, China con 9.9% y México con 2.9%.
 En lo referente a la exportación de carne, Brasil ocupa el primer puesto con 14.3%, seguido por Australia con 12.8%, después Estados Unidos con 9.8% e Italia con 6.7%, (Carrera-Chávez, Gómez-Cruz y Rita Schwentesius, 2015).
 
-En México la ganadería constituye un sector económico importante, su actividad abarca más de la mitad del territorio nacional para todas sus etapas de producción, procesamiento y comercialización.
+En México la ganadería constituye un sector económico importante. 
+Su actividad abarca más de la mitad del territorio nacional para todas sus etapas de producción, procesamiento y comercialización.
 En el año 2008, este sector generó 14.1% del total de empleos en el sector agropecuario y aportó el 50.3% del producto en dicho sector.
 La producción de carne en México en 2011 contribuyó con 30.5% del total de la producción de carne en canal, alcanzando 1.83 millones de toneladas.
 Además, representa el 9.2% del volumen total de alimentos producidos en el sector pecuario nacional y aporta el 23% de su valor total.
-En términos concretos, la producción anual de carne en el país en 2011 fue de 1.79 millones de toneladas, generó 1.1 millones de empleos directos y 3 millones de empleos indirectos (Del moral y Murillo 2015). 
+En términos concretos, la producción anual de carne en el país en 2011 fue de 1.79 millones de toneladas, generó 1.1 millones de empleos directos y 3 millones de empleos indirectos (Del Moral y Murillo 2015). 
 
 Sin embargo, la pérdida de competitividad de la producción de carne bovina en México es un tema recurrente en la literatura.
 Del Moral-Barrera y Murillo-Villanueva (2015) utilizan el índice de Vollrath para demostrar que México ha perdido competitividad en el mercado mundial de carne de bovino.
-Al mismo tiempo, Carrera-Chávez et al. (2015) atribuyen esta pérdida de competitividad a los bajos precios de la carne importada desde Estados Unidos, favorecidos por los altos subsidios que reciben los productores estadounidenses.
+Al mismo tiempo, Carrera-Chávez et al. (2015) atribuyen esta pérdida de competitividad a los precios bajos de la carne importada desde Estados Unidos, favorecidos por los altos subsidios que reciben los productores estadounidenses.
 A pesar de la relevancia de la ganadería en la economía nacional y del crecimiento en las exportaciones, y en particular, las exportaciones de ganado en pie, es necesario cuestionar si esta estrategia realmente maximiza los beneficios económicos para México y Sonora.
 Si bien las exportaciones reflejan una inserción en el mercado global, también evidencia una oportunidad desaprovechada: el procesamiento local del ganado podría generar mayor valor agregado, impulsar la industria cárnica y fortalecer la economía regional rural.
 
 # El costo de oportunidad de la producción de carne en Sonora.
 Sonora es reconocida como uno de los principales productores y exportadores de carne y ganado en México. 
-Frecuentemente se exponen sus cifras de exportación con orgullo, celebrando el prestigio internacional de su ganado en píe.
+Frecuentemente se exponen sus cifras de exportación con orgullo, celebrando el prestigio internacional de su ganado en pie.
 
 No obstante, detrás de este éxito aparente, se esconde una realidad que afecta a pequeños productores, consumidores locales y al propio mercado interno local.
 
-Para abordar la situación planteada en el párrafo anterior se toma al concepto de costo de oportunidad propuesto por la ciencia económica como un filtro de análisis porque se considera que es clave para comprender dicha situación.
-Este concepto nos muestra el valor de la alternativa sacrificada al tomar una decisión.
+Para analizar la situación planteada se toma al concepto de costo de oportunidad.
+Este concepto fue propuesto desde la ciencia económica como un filtro clave para comprender el exito aparente.
+El costo de oportunidad nos muestra el valor de la alternativa sacrificada al tomar una decisión.
 Para el caso de Sonora, priorizar la exportación de ganado en pie sobre el desarrollo local genera costos de oportunidad significativos para distintos actores.
 
-En este escrito sostenemos que la estructura actual del mercado favorece sólo a las grandes empresas que cuentan con los recursos necesarios para cumplir con los estándares internacionales de exportación y la capacidad logística y económica para sacrificar ganado bovino en los rastros Tipo inspección Federal (TIF ).
-En contraste, los pequeños productores se limitan a la crianza y venta de ganado en pie debido a los altos costos asociados la logística y el sacrificio del ganado, lo que los relega a la parte más baja de la cadena de valor.
+En este escrito sostenemos que la estructura actual del mercado favorece sólo a las empresas grandes.
+Estas empresas cuentan con los recursos necesarios para cumplir con los estándares internacionales de exportación y la capacidad logística y económica. 
+Estas empresas pueden solventar sacrificar ganado bovino en los rastros Tipo Inspección Federal (TIF).
+En contraste, los pequeños productores se limitan a la crianza y venta de ganado en pie debido a los altos costos asociados la logística y el sacrificio del ganado.
+Así, los pequeños productores quedan relegados en la parte más baja de la cadena de valor.
  
- Como resultado, su margen de ganancias es reducido y depende de intermediarios para comercializar su ganado, perpetuando su vulnerabilidad económica.
- Sin embargo, desde la perspectiva del costo de oportunidad, estos pequeños productores podrían obtener un mayor valor añadido si tuvieran acceso a la infraestructura necesaria para integrarse al mercado de carne procesada, permitiéndoles capturar una mayor parte de los beneficios.
- En el caso hipotético que los pequeños productores lograran capturar una mayor parte de los beneficios dentro de la cadena productiva, se generaría un impacto positivo en varios rubros.
- En primer lugar, al acceder a la infraestructura de sacrificio y procesamiento de carne, podrían vender su producto con mayor valor agregado en lugar de depender de intermediarios, lo que aumentaría sus ingresos y reduciría su vulnerabilidad económica
+Como resultado, su margen de ganancias es reducido y depende de intermediarios para comercializar su ganado, perpetuando su vulnerabilidad económica.
+Sin embargo, desde la perspectiva del costo de oportunidad, estos pequeños productores podrían obtener un mayor valor añadido si tuvieran acceso a la infraestructura necesaria para integrarse al mercado de carne procesada.
+En el caso hipotético que los pequeños productores lograran capturar una mayor parte de los beneficios dentro de la cadena productiva, se generaría un impacto positivo en varios rubros.
+En primer lugar, al acceder a la infraestructura de sacrificio y procesamiento de carne, podrían vender su producto con mayor valor agregado.
+Con lo anterior aumentarían sus ingresos y reduciría su vulnerabilidad económica.
+Al mismo tiempo se incentivaría la inversión en mejores prácticas de producción, sanidad y trazabilidad.
+Estas mejoras fortalecerían la calidad del producto y su competitividad en el mercado. 
 
-Al mismo tiempo se incentivaría la inversión en mejores prácticas de producción, sanidad y trazabilidad, fortaleciendo la calidad del producto y su competitividad en el mercado. 
+En el corto plazo, al distribuir de manera más equitativa los beneficios dentro del sector ganadero, se impulsaría el desarrollo local.
+El desarrollo local fomentaría la generación de empleo y el crecimiento económico en las comunidades rurales.
+En el largo plazo, esto contribuiría a una mayor estabilidad del sector.
+Esta estabilidad se vería reflejada en una disminución en la concentración del mercado. 
+La fracmentación de mercado promueve estructuras más inclusivas y sostenibles. 
+Los mercados fragmentados son más fuertes ante choques políticos y económicos externos que los mercados concentrados.
 
-Además, al distribuir de manera mas equitativa los beneficios dentro del sector ganadero, se impulsaría el desarrollo local, fomentando la generación de empleo y el crecimiento económico en las comunidades rurales.
-En el largo plazo, esto contribuiría a una mayor estabilidad del sector, disminuyendo la concentración del mercado y promover una estructura más inclusiva y sostenible y fuerte ante choques políticos y económicos externos.
 Para lo consumidores de carne en Sonora, la exportación de ganado en pie representa un costo de oportunidad importante.
-Al priorizar la venta de reses vivas al mercado internacional, se reduce la disponibilidad de carne procesada a nivel local, lo que eleva su precio y la convierte en producto inaccesible para muchas familias.
+Al priorizar la venta de reses vivas al mercado internacional, se reduce la disponibilidad de carne procesada a nivel local. 
+Lo anterior empuja el precio hacia arriba y la convierte en producto inaccesible para muchas familias.
 Esta dinámica genera una paradoja: Sonora es un estado con una fuerte producción ganadera, pero una gran parte de su población enfrente dificultades para consumir carne de calidad debido a los altos costos.
 En este sentido, el costo de oportunidad para los consumidores locales radica en la pérdida de acceso a carne asequible y de calidad.
 
@@ -60,31 +72,36 @@ Este enfoque debilita la cadena de valor interna y frena el desarrollo de la ind
 El costo de oportunidad de esta decisión es un mercado más justo e inclusivo que podría generar empleo, incrementar los ingresos de los pequeños productores y proporcionar carne a precios competitivos.
 El actual modelo productivo beneficia a unos pocos a costa de muchos.
 Si bien es cierto que las exportaciones son una fuente importante de ingresos, es necesario preguntarse: ¿qué se está sacrificando para mantener este modelo?
-
-Una estrategia que combine el impulso a las exportaciones con fortalecimiento del mercado interno podría reducir los costos de oportunidad, integrando a los pequeños productores en la cadena de valor, haciendo la carne más accesible para los consumidores locales y diversificando las fuentes de ingreso del Estado.
+Una alternativa sería una estrategia que combine el impulso a las exportaciones con fortalecimiento del mercado interno podría reducir los costos de oportunidad, integrando a los pequeños productores en la cadena de valor, haciendo la carne más accesible para los consumidores locales y diversificando las fuentes de ingreso del Estado.
 
 La priorización de la exportación de ganado en pie sobre el desarrollo de la industria cárnica local revela un dilema estructural en la ganadería sonorense.
-Este modelo no es fortuito, sino el resultado de un proceso más amplio de transformación económica impulsado por políticas de apertura comercial, reconfiguración del mercado agropecuario y cambios en la dinámica global de producción y consumo de carne.
+Este modelo no es fortuito, sino el resultado de un proceso más amplio de transformación económica impulsado por políticas de apertura comercial. 
+Como resultado se dió una reconfiguración del mercado agropecuario y cambió la dinámica global de producción y consumo de carne.
 Resulta crucial un replanteamiento, no obstante, exige voluntad política, inversión en infraestructura y una visión estratégica que reconozca que el éxito de Sonora no se mide por sus cifras de exportación, sino por la prosperidad compartida entre sus actores económicos.
 Para comprender cómo Sonora llegó a esta situación, se hace un breve recuento sobre los efectos de la apertura económica mexicana en la estructura del sector pecuario y ganadero.
-A partir de la liberalización comercial y la integración de México a los mercados internacionales, el modelo productivo y las oportunidades para los distintos actores del sector han cambiado significativamente, consolidando un esquema en el que las exportaciones de ganado en pie han sido privilegiadas sobre el fortalecimiento de una cadena de valor interna. 
+La liberalización comercial y la integración de México a los mercados internacionales, han provocado cambios significativos. 
+En consecuencia se consolidó un esquema en el que las exportaciones de ganado en pie se privilegiaron sobre el fortalecimiento de una cadena de valor interna. 
 
 # De la apertura económica al alto costo de oportunidad: el impacto en la ganadería sonorense
 México inició su proceso de apertura económica en la década de 1980.
 En este proceso se sometió a la política industrial al modelo de crecimiento hacia afuera lo que ha resultado en 30 años de éxito externo y fracaso interno.
 
-Es las exportaciones han sido lo único que ha crecido, no obstante, es importante señalar que las exportaciones tienden a incorporar poco valor agregado y a tener bajo nivel de encadenamiento con el resto de la estructura productiva (Morales-López, 2023).
+Las exportaciones han sido lo único que ha crecido, no obstante, es importante señalar que las exportaciones tienden a incorporar poco valor agregado y a tener un nivel bajo de encadenamiento con el resto de la estructura productiva (Morales-López, 2023).
 
 Por su parte Vidaurrazaga y Cortez (2000) destacan que en la práctica la apertura comercial no solo fue unilateral, sino que también significó la reducción de inversión pública, reducción de apoyo gubernamentales, eliminación de subsidios.
 En este contexto de desigualdad competitiva, el aparato productivo nacional se enfrentó a la competencia internacional lo que llevó a muchas empresas a la quiebra y desaparición, sobre todo pequeñas y medianas empresas.
 Los mismos autores resaltan que el sector pecuario fue de los más perjudicados en este proceso de apertura económica.
-Antes del proceso de apertura comercial, durante el periodo 1940 – 1982 el Estado mexicano protegió parcialmente a este sector.
+Lo cual contrasta con la proteccion parcial que había gozado durante 1940-1982, anterior a la apertura.
 
-No obstante, dentro de la dinámica de apertura el Estado retiró su apoyo institucional provocando que el sector pecuario se descapitalizara de una manera veloz y redujo enormemente sus posibilidades de competencia internacional.
-Sin embargo, mientras México retiraba su apoyo al sector agropecuario, según López-Calva (1994), países como Estados Unidos, Canadá y países de la Unión Europea intensificaron su intervención en el ámbito agropecuario, llegando incluso a una competencia de subsidios para potenciar la competitividad de sus productos en el mercado internacional.
+El Estado retiró su apoyo institucional provocando que el sector pecuario se descapitalizara de una manera veloz y reduciendo enormemente sus posibilidades de competencia internacional.
+Estados Unidos, Canadá y países de la Unión Europea intensificaron su intervención en el ámbito agropecuario con una competencia de subsidios.
+Según López-Calva (1994) simultaneamente México retiraba su apoyo al sector.
 En contraste, México llevó a cabo una eliminación o reducción apresurada de los programas de apoyo al sector agropecuario.
-Si bien es verdad que el Tratado de Libre Comercio reconoció las diferencias existentes entre los países firmantes y estableció plazos para aquellos productos agropecuarios donde existía desigualdad en su producción y así tener el tiempo de ganar competitividad y abrirse a la competencia internacional. 
-El ganado bovino en pie, la carne en canal o en sus diferentes presentaciones se liberaron inmediatamente al iniciar el Tratado de Libre Comercio sin tener el tiempo y el apoyo para adquirir competitividad para hacer frente a la competencia internacional (Morales-López, 2023).
+El Tratado de Libre Comercio reconoció las diferencias existentes entre los países firmantes. 
+El tratado estableció plazos para aquellos productos agropecuarios donde existía desigualdad en su producción.
+De esta manera se pretendía tener tiempo para ganar competitividad y abrirse a la competencia internacional. 
+EEl ganado bovino en pie, la carne en canal o en sus diferentes presentaciones se liberaron al iniciar el Tratado de Libre Comercio.
+Esta liberación no dió el tiempo ni apoyo para adquirir competitividad para hacer frente a la competencia internacional (Morales-López, 2023).
 
 En este sentido, Chauvet (1991) subraya que la integración de la producción pecuaria mexicana a la economía internacional, la ganadería en su conjunto y en particular la de bovinos fue gravemente afectada por la apertura económica ya que podía profundizar la tendencia al incremento de las importaciones, en lugar de impulsar la producción y la productividad.
 En general, la apertura comercial ha generado beneficios en términos de exportaciones, sin lograr un desarrollo productivo robusto y equilibrado dentro del país. 
@@ -96,18 +113,21 @@ Esta serie de elementos se conjugaron y se expresaron en la disminución del hat
 
 
 La producción de ganado en pie para su exportación constituye una parte de los primeros eslabones de la cadena productiva ganadera, las fases siguientes continúan en los corrales de engorda intensiva en Arizona.
-Desafortunadamente es a partir de aquí donde la actividad genera más rentabilidad y es justamente en estas etapas que Sonora ha dejado de hacer.
+Desafortunadamente es a partir de aquí donde la actividad genera más rentabilidad y es justamente estas etapas que Sonora ha dejado de hacer.
 Debido a la situación desfavorable que enfrentan los productores de ganado en pie están obligados a vender su ganado al destete, (Ballesteros, Moreno y Salomón, 2002).
-Esta estrategia evidencia el incremento de las exportaciones, sin embargo, al abandonar las fases posteriores al destete son las que agregan más valor al animal, así el productor sonorense se ha vuelto dependiente de intermediarios y se ha convertido en el eslabón más vulnerable a los cambios del precio internacional de los insumos y de la carne, (Ballesteros, Moreno y Salomón, 2002).
+Esta estrategia evidencia el incremento de las exportaciones.
+Al abandonar las fases posteriores al destete el productor sonorense se vuelve dependiente de intermediarios.
+Esta dependencia los condena en el eslabón más vulnerable ante cambios del precio internacional de los insumos y de la carne, (Ballesteros, Moreno y Salomón, 2002).
 
 Según Salazar y Borbón (2000) al productor sonorense le toma 18 meses para producir un becerro.
 Este periodo incluye desde la preñez hasta que el becerro alcanza su peso de venta.
-Durante este lapso el productor carga con todos los cotos.
+Durante este lapso el productor carga con todos los costos.
 El proceso toma 75% del costo total del animal de 400Kg.
 
 Por su parte, la comercialización consta de subsistemas; producción, distribución, consumo y de regulación, (Frigerio y Shuetz, 1999). 
-Por otro lado, hay quienes señalan que la red de intermediación entre el producto el comprador norteamericano es muy amplia, los grandes compradores trabajan por medio de agentes regionales y locales para asegurar la compra del ganado en pie, (Pérez, 1993).
-Por lo general, los intermediarios son empleados de quienes a su vez son subordinados de algún exportador que se ubica en la frontera y que tiene trato directo con los norteamericanos, (Ballesteros, Moreno y Salomón, 2002).
+Por otro lado, hay quienes señalan que la red de intermediación entre el producto y el comprador norteamericano es muy amplia.
+Los grandes compradores trabajan por medio de agentes regionales y locales para asegurar la compra del ganado en pie, (Pérez, 1993).
+Por lo general, los intermediarios son subordinados de algún exportador que se ubica en la frontera y que tiene trato directo con los norteamericanos, (Ballesteros, Moreno y Salomón, 2002).
 	
 # De la dependencia exportadora a la Autosuficiencia cárnica: la guerra arancelaria actual y el costo de oportunidad en la ganadería de Sonora.
 La dependencia de la exportación de ganado en pie hacia Estados Unidos expone a la ganadería sonorense a riesgos significativos, particularmente en el contexto actual de la guerra arancelaria que pretende imponer el nuevo presidente de los Estados Unidos Donald Trump.
