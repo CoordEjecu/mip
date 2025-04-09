@@ -6,6 +6,19 @@ output:
 params:
   args: myarg
 ---
+# Problema
+El modelo de crecimiento hacia afuera permitió insertar a México en el comercio internacional y atraer inversión extranjera.
+Este modelo se hizo a costa de debilitar la producción nacional y desmantelar las políticas de fomento al sector primario. 
+Lo anterior marginó a muchas pequeñas y medianas empresas del proceso de globalización.
+
+En lugar de aprovechar las cadenas de valor para generar capacidades productivas internas, el país se volvió un proveedor de bienes intermedios y materias primas. 
+Estos bienes y materias primas en muchos de los casos, ni siquiera pasan por procesos de transformación local.
+La exportación de ganado en pie en lugar de carne procesada es un ejemplo claro de esta pérdida de oportunbidad de valor agregado.
+
+En esta coyuntura, se realizaó la Confederación Nacional de Gobernadores y Gobernadoras. 
+Una de las conclusiones fue la redifinición de la estrategía de desarrollo productivo de México.
+En la CONAGO se propuso incrementar la productividad e inversión en infraestructura para fortalecer el mercado interno.
+De lo contrario, el país seguirá dependiendo del vaivén de las politicas comerciales de Estados Unidos, sin capacidad de respuesta ni autonomía económica.
 
 # Introducción.
 Para Del Moral y Murillo (2015), el sector primario ha sido históricamente considerado como uno de los sectores más relevantes para la economía internacional por su impacto económico y social.
@@ -210,30 +223,20 @@ El hecho de que estos sectores sufran caídas tan marcadas confirma una estructu
 La imposición de aranceles por parte del Presidente Donald Trump actúan como un choque externo y evidencia la dependencia estructural de México con el mercado estadounidense. 
 En lugar de una integración basada en la reciprocidad, México ha forjado una relación comercial asimétrica, donde exporta grandes volumenes pero con poco valor agregado.
 
-El interés por incrementar los benefeicios en la agricultura y ganadería se debe por el impacto positivos en terminos economicos. 
-Derivado de la desaparición de apoyos para la producción en el campo por parte del estado mexicano, las zonas rurales qudaron vacias.
-Los habitantes de estas zonas son obligados a mudarse a los centros urbanos por la falta de oportunidadesde empleo.
+## CONAGO
+El interés por incrementar los benefeicios en la agricultura y ganadería se debe por el impacto positivo en términos económicos. 
+Las zonas rurales qudaron vacia derivado de la desaparición de apoyos a la producción en el campo por parte del estado mexicano. 
+Los habitantes de estas zonas se vieron obligados a mudarse a los centros urbanos por la falta de oportunidades de empleo.
 
 En la Conferencia Nacional de Gobernadores (CONAGO) se propuso un plan ambicioso para el crecimiento económico, el fortalecimiento del mercado interno y la generación de empleo.
-Por lo anterior, resulta oportuno y necesario generar una propuesta integral que aglutine los objetivos propuestos por la CONAGO. 
-En este sentido, y gracias a la revisión y estudio del costo de oportunidad que representa la estrategía exportadora de ganado en pie en Sonora permite general tal propuesta.
-De acuerdo con los datos contenidos en la Matriz Insumo-Producto y públicada por INEGI se realizó un ejercicio que posibilitó obtener cifras preeliminares sobre el impacto en el empleo.
+Por lo anterior, resulta oportuno y necesario generar una propuesta integral que aglutine estos objetivos. 
+En este sentido, la revisión y estudio del costo de oportunidad que representa la estrategía exportadora de ganado en pie en Sonora permite generar tal propuesta.
+Utilizamos la Matríz Insumo-Producto publicada por INEGI para estudiar el impacto en la generación de empleo de la propuesta de CONAGO.
 
-Las cifras indican que con una inversión estratégica de tan solo el 0.16% del monto total reservado para el plan propuesto de CONAGO, es posible generar 1.7% del total de los empleos objetivo.
+Las cifras indican que con una inversión estratégica de tan solo el 0.16% del monto total reservado para el plan propuesto por CONAGO, es posible generar 1.7% del total de los empleos objetivo.
 Esto demuestra el alto retorno social y economico que ofrece esta industria, conviertiendola en una inversión sumamente atractiva.
 
-El modelo de crecimiento hacia afuera permitió insertar a México en el comercio internacional y atraer inversión extranjera.
-Este modelo se hizo a costa de debilitar la producción nacional y desmantelar las políticas de fomento al sector primario. 
-Lo anterior marginó a muchas pequeñas y medianas empresas del proceso de globalización.
-En lugar de aprovechar las cadenas de valor para generar capacidades productivas internas, el país se volvió un proveedor de bienes intermedios y materias primas. 
-Estos bienes y materias primas en muchos de los casos, ni siquiera pasan por procesos de transformación local.
-La exportación de ganado en pie en lugar de carne procesada es un ejemplo claro de esta pérdida de oportunbidad de valor agregado.
-
-En esta coyuntura, se realizaó la Confederación Nacional de Gobernadores y Gobernadoras. 
-Una de las conclusiones fue la redifinición de la estrategía de desarrollo productivo de México.
-En la CONAGO se propuso incrementar la productividad e inversión en infraestructura para fortalezca el mercado interno.
-De lo contrario, el país seguirá dependiendo del vaivén de las politicas comerciales de Estados Unidos, sin capacidad de respuesta ni autonomía económica.
-
+# Retomando el protagonismo nacional de la ganadería sonorense
 Sonora es una de las entidades del norte de México que históricamente ha sido de las más integradas a la economía estadounidense, debido a su ubicación y su orientación exportadora.
 Las exportaciones nacionales en la agricultura son de 43%, de minería es 79% y la manufacturera 57%.
 Esta cercanía ha impulsado el desarrollo regional, pero tambien ha generado una fuerta dependencia de las condiciones comerciales con el país vecino del norte.
