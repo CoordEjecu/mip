@@ -1,5 +1,6 @@
 ---
 title: "Costo de oportunidad"
+abstract: "La inversión en la creación de capital fijo en la industria propuesta corresponde al 0.16% del monto total propuesto en la CONAGO. Esta inversión producirá 25,500 empleos. Esta cantidad de empleos generados representa el 1.7% del total de empleos objetivo. Esto demuestra el alto retorno social y economico que ofrece esta industria, conviertiendola en una inversión sumamente atractiva."
 output:
   pdf_document: default
 params:
@@ -208,6 +209,18 @@ Estos incrementos impactan de manera especial a sectores altamente integrados a 
 El hecho de que estos sectores sufran caídas tan marcadas confirma una estructura económica orientada hacia la exportación, pero débilmente integrada con la producción local.
 La imposición de aranceles por parte del Presidente Donald Trump actúan como un choque externo y evidencia la dependencia estructural de México con el mercado estadounidense. 
 En lugar de una integración basada en la reciprocidad, México ha forjado una relación comercial asimétrica, donde exporta grandes volumenes pero con poco valor agregado.
+
+El interés por incrementar los benefeicios en la agricultura y ganadería se debe por el impacto positivos en terminos economicos. 
+Derivado de la desaparición de apoyos para la producción en el campo por parte del estado mexicano, las zonas rurales qudaron vacias.
+Los habitantes de estas zonas son obligados a mudarse a los centros urbanos por la falta de oportunidadesde empleo.
+
+En la Conferencia Nacional de Gobernadores (CONAGO) se propuso un plan ambicioso para el crecimiento económico, el fortalecimiento del mercado interno y la generación de empleo.
+Por lo anterior, resulta oportuno y necesario generar una propuesta integral que aglutine los objetivos propuestos por la CONAGO. 
+En este sentido, y gracias a la revisión y estudio del costo de oportunidad que representa la estrategía exportadora de ganado en pie en Sonora permite general tal propuesta.
+De acuerdo con los datos contenidos en la Matriz Insumo-Producto y públicada por INEGI se realizó un ejercicio que posibilitó obtener cifras preeliminares sobre el impacto en el empleo.
+
+Las cifras indican que con una inversión estratégica de tan solo el 0.16% del monto total reservado para el plan propuesto de CONAGO, es posible generar 1.7% del total de los empleos objetivo.
+Esto demuestra el alto retorno social y economico que ofrece esta industria, conviertiendola en una inversión sumamente atractiva.
 
 El modelo de crecimiento hacia afuera permitió insertar a México en el comercio internacional y atraer inversión extranjera.
 Este modelo se hizo a costa de debilitar la producción nacional y desmantelar las políticas de fomento al sector primario. 
