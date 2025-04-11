@@ -21,6 +21,13 @@ En la CONAGO se propuso incrementar la productividad e inversión en infraestruc
 De lo contrario, el país seguirá dependiendo del vaivén de las politicas comerciales de Estados Unidos, sin capacidad de respuesta ni autonomía económica.
 
 # Introducción.
+<!-- Clasificacion de la ganedería segun Smith 
+La segunda clase de materias primas son aquellas que pueden ser multiplicadas por le trabajo humano. 
+Estas materias primas consisten en plantas y animales que en países se producen en cantidades enormes y que tienen
+poco o ningun valor y son desplazados por cultivos o actividades mas rentables
+Ejemplo, el precio del ganado debería incrementarse para resultar rentable y destinar más tierras al cultivo para satisfacer la demanda gandera de alimentos.
+-->
+
 Para Del Moral y Murillo (2015), el sector primario ha sido históricamente considerado como uno de los sectores más relevantes para la economía internacional por su impacto económico y social.
 Por su parte, Palma-García (2014) señalan que la ganadería a nivel global representa el 40% del producto interno bruto agrícola, y es fuente de empleo para 1.30 millones de personas de escasos recursos.
 Por otro lado, investigaciones como las de Chauvet (1997), Chauvet (1999), Ríos y Castillo (2015) y Montaño et al. (2021) indican que la producción de carne bovina es una actividad económica muy importante porque genera valor agregado, divisas y abona a la seguridad alimentaria de los países. 
@@ -159,6 +166,17 @@ Para sustentar esta estrategia, el uso de la Matriz Insumo-Producto (MIP) es cla
 Con esta herramienta, se puede analizar lo que Sonora pierde al mantener su modelo de exportación de ganado en pie y lo que pudiera ganar al priorizar la producción de carne.
 La matriz permite calcular el efecto multiplicador de ambas estrategias en términos de empleo, ingresos y crecimiento económico, demostrando que el proceso local de carne no solo reduciría el costo de oportunidad de la exportación, son que también fortalecería la economía de Sonora en un contexto de incertidumbre comercial.
 
+<!-- La exportación ganadera en Sonora posee caracteristicas de oligopolio 
+ Metería el concepto monopolio en Sonora porque se ha visto que el mercado de ganado en pie tiende a ser oligopolico. 
+ Porque son 3 - 4 empresas que pueden exportar Rancho 17, rastro TIF dijeron esto,
+ -Esta estructura de mercado vuelve menos abundantes las fuentes primitivas de ingreso: salarios y ganancias.
+  Esta caracteristica de mercado beneficia solo a unos cuantos a costa del resto de las personas de la sociedad.
+ -El interés de los empresarios difiere del bien común, estos ensanchan el mercado y reducen la competencia
+ -->
+
+
+
+
 # Antecedentes y revisión de literatura breve del modelo Matriz Insumo-Producto
 El modelo Matriz Insumo-Producto (MIP) es una herramienta analítica desarrollada por Wassily Liontief que permite estudiar las interrelaciones entre los sectores productivos de una economía.
 Su objetivo principal es presentar los flujos de bienes y servicios dentro de un sistema económico, proporcionando información clave sobre la estructura productiva y los encadenamientos sectoriales.
@@ -255,4 +273,4 @@ Por su parte, la agricultura sonorense exporta el 45% de su producción.
 Mientras que la minería exporta el 24% de su producción. 
 Por último, la produccion de derivados del petroleo y la cría y explotación de animales exportan el 18% y el 6% respectivamente.
 
-
+ 
