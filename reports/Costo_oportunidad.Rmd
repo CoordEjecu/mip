@@ -259,7 +259,7 @@ No obstante, no se ha lorgado consolidar cadenas de valor locales como la indust
 Este patrón ha limitado el valor agregado generado en la región y ha hecho al estado particularmente vulnerable a cambios en politicas arancelarias estadounidenses.
 
 Dado el contexto previamente expuesto y los resultados obtenidos a nivel nacional, resulta pertinente trasladar el analisis hacia el ámbito regional.
-Sonroa mantiene una economía con fuerte orientación exportadora, particularmente el sector ganadero.
+Sonora mantiene una economía con fuerte orientación exportadora, particularmente el sector ganadero.
 La estructura productiva de esta entidad ha sido moldeada historicamente por la cercanía con Estados Unidos y por políticas que han incentivado la exportacion de ganado en pie. 
 Por ello, en este trabajo se propone aplicar la Matríz Insumo-Producto con el objetivo de observar y cuantificar los efectos económicos que podrían derivarse de la nueva politica comercial estadounidense.
 
