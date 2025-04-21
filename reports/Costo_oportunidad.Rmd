@@ -19,8 +19,8 @@ Así el nuevo modelo económico, orientado al exterior, los relegó rápidamente
 En lugar de aprovechar las cadenas de valor para generar capacidades productivas internas, el país se volvió un proveedor de bienes intermedios y materias primas. 
 Estos bienes y materias primas en muchos de los casos, ni siquiera pasan por procesos de transformación local.
 La exportación de ganado en pie en lugar de carne procesada es un ejemplo claro de esta pérdida de oportunbidad de valor agregado.
-Como bien señaló Adam Smith. algunos productos como el ganado pueden producirse en grandes cantidades.
-Pero si no se transforman adecuadamente adecuedamente pierden valor y son desplazados por actividades más rentables, (Adam Smith, 1776, p. 318).
+Como bien señaló Adam Smith, algunos productos como el ganado pueden producirse en grandes cantidades.
+Pero si no se transforman adecuadamente adecuadamente pierden valor y son desplazados por actividades más rentables, (Adam Smith, 1776, p. 318).
 La exportación de ganado en pie sin procesamiento es precisamente una forma de sacrificar valor agregado.
 
 En esta coyuntura, se realizaó la Confederación Nacional de Gobernadores y Gobernadoras. 
@@ -29,13 +29,6 @@ En la CONAGO se propuso incrementar la productividad e inversión en infraestruc
 De lo contrario, el país seguirá dependiendo del vaivén de las politicas comerciales de Estados Unidos, sin capacidad de respuesta ni autonomía económica.
 
 # Introducción.
-<!-- Clasificacion de la ganedería segun Smith 
-La segunda clase de materias primas son aquellas que pueden ser multiplicadas por le trabajo humano. 
-Estas materias primas consisten en plantas y animales que en países se producen en cantidades enormes y que tienen
-poco o ningun valor y son desplazados por cultivos o actividades mas rentables
-Ejemplo, el precio del ganado debería incrementarse para resultar rentable y destinar más tierras al cultivo para satisfacer la demanda gandera de alimentos.
--->
-
 Para Del Moral y Murillo (2015), el sector primario ha sido históricamente considerado como uno de los sectores más relevantes para la economía internacional por su impacto económico y social.
 Por su parte, Palma-García (2014) señalan que la ganadería a nivel global representa el 40% del producto interno bruto agrícola, y es fuente de empleo para 1.30 millones de personas de escasos recursos.
 Por otro lado, investigaciones como las de Chauvet (1997), Chauvet (1999), Ríos y Castillo (2015) y Montaño et al. (2021) indican que la producción de carne bovina es una actividad económica muy importante porque genera valor agregado, divisas y abona a la seguridad alimentaria de los países. 
@@ -75,7 +68,7 @@ Estas empresas pueden solventar sacrificar ganado bovino en los rastros Tipo Ins
 En contraste, los pequeños productores se limitan a la crianza y venta de ganado en pie debido a los altos costos asociados la logística y el sacrificio del ganado.
 Así, los pequeños productores quedan relegados en la parte más baja de la cadena de valor.
 Como mencionó Smith, en mercados donde unos pocos concentran el control, se vuelve menos abundante la distribución de las fuentes primitivas de ingreso, como salarios y ganancias.
-En Sonora, este tipo deestructura oligopólica impide una distribución más justa de los beneficios y reduce la competencia, beneficiando a unos cuantos.
+En Sonora, este tipo de estructura oligopólica impide una distribución más justa de los beneficios y reduce la competencia, beneficiando a unos cuantos.
  
 Como resultado, su margen de ganancias es reducido y depende de intermediarios para comercializar su ganado, perpetuando su vulnerabilidad económica.
 Sin embargo, desde la perspectiva del costo de oportunidad, estos pequeños productores podrían obtener un mayor valor añadido si tuvieran acceso a la infraestructura necesaria para integrarse al mercado de carne procesada.
@@ -114,25 +107,13 @@ La liberalización comercial y la integración de México a los mercados interna
 En consecuencia se consolidó un esquema en el que las exportaciones de ganado en pie se privilegiaron sobre el fortalecimiento de una cadena de valor interna. 
 
 # De la apertura económica al alto costo de oportunidad: el impacto en la ganadería sonorense
-<!--
-Los metales no son la base de riqueza.
-Son sus tierras y bienes de todo tipo.
-A través del comercio y la balanza comercial se obtienen metales/dinero.
-El comercio local es el más importante porque con un mismo capital se genera el mayor ingreso y empleo posible
-
-La balanza comercia utilizada por Trump para imponer aranceles. México es vulnerable ante la politica comercial exterior de Estados Unidos.
-Los encadenamientos son la  herramienta matematica que sustenta que el comercio local genera mayor ingreso.
-
-Trump imponer aranceles para que su balanza comercial deje de ser deficitaria. 
-Con el plan México se fortalece el mercado interno y se resolverá la vulnaribilidad de México ante la politica comercial exterior de Estados Unidos. 
-
--->
-
 México inició su proceso de apertura económica en la década de 1980.
 En este proceso se sometió a la política industrial al modelo de crecimiento hacia afuera lo que ha resultado en 30 años de éxito externo y fracaso interno.
 
-Las exportaciones han sido lo único que ha crecido, no obstante, es importante señalar que las exportaciones tienden a incorporar poco valor agregado y a tener un nivel bajo de encadenamiento con el resto de la estructura productiva (Morales-López, 2023).
-Esto refuerza la tesis de Smith, quien advertía que el comercio local es la base real de la riqueza, ya que permite generar el mayor ingreso y empleo posible con el mismo capital, (Smith, 1776, p. 509).
+Aunque las exportaciones es lo único que ha crecido su impacto positivo puede mejorar.
+Las exportaciones tienden a incorporar poco valor agregado y a tener un nivel bajo de encadenamiento con el resto de la estructura productiva, (Morales-López, 2023).
+Smith advertía que el comercio local es la base real de la riqueza.
+Esta característica del comercio se debe a que permite generar el mayor ingreso y empleo posible con el mismo capital, (Smith, 1776, p. 509).
 Apostar unicamente por el comercio exterior sin fortalecer el mercado interno reduce el impacto positivo de las exportaciones.
 
 Por su parte Vidaurrazaga y Cortez (2000) destacan que en la práctica la apertura comercial no solo fue unilateral, sino que también significó la reducción de inversión pública, reducción de apoyo gubernamentales, eliminación de subsidios.
@@ -191,17 +172,6 @@ Asimismo, la diversificación del mercado reduciría el impacto de fluctuaciones
 Para sustentar esta estrategia, el uso de la Matriz Insumo-Producto (MIP) es clave, ya que permite medir el impacto económico de cada decisión en la estructura productiva.
 Con esta herramienta, se puede analizar lo que Sonora pierde al mantener su modelo de exportación de ganado en pie y lo que pudiera ganar al priorizar la producción de carne.
 La matriz permite calcular el efecto multiplicador de ambas estrategias en términos de empleo, ingresos y crecimiento económico, demostrando que el proceso local de carne no solo reduciría el costo de oportunidad de la exportación, son que también fortalecería la economía de Sonora en un contexto de incertidumbre comercial.
-
-<!-- La exportación ganadera en Sonora posee caracteristicas de oligopolio 
- Metería el concepto monopolio en Sonora porque se ha visto que el mercado de ganado en pie tiende a ser oligopolico. 
- Porque son 3 - 4 empresas que pueden exportar Rancho 17, rastro TIF dijeron esto,
- -Esta estructura de mercado vuelve menos abundantes las fuentes primitivas de ingreso: salarios y ganancias.
-  Esta caracteristica de mercado beneficia solo a unos cuantos a costa del resto de las personas de la sociedad.
- -El interés de los empresarios difiere del bien común, estos ensanchan el mercado y reducen la competencia
- -->
-
-
-
 
 # Antecedentes y revisión de literatura breve del modelo Matriz Insumo-Producto
 El modelo Matriz Insumo-Producto (MIP) es una herramienta analítica desarrollada por Wassily Liontief que permite estudiar las interrelaciones entre los sectores productivos de una economía.
