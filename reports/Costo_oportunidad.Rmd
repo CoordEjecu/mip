@@ -11,9 +11,17 @@ El modelo de crecimiento hacia afuera permitió insertar a México en el comerci
 Este modelo se hizo a costa de debilitar la producción nacional y desmantelar las políticas de fomento al sector primario. 
 Lo anterior marginó a muchas pequeñas y medianas empresas del proceso de globalización.
 
+La apertura de México al mundo partió de una intension positiva; liberar el mercado y fomentar la competitividad. Sin embargo, al no estar preparados para una transformación económica de tal magnitud, los pequeños y medianos productores resultaron ser los principales afectados.
+Mientras que los grandes productores migraron hacia el nuevo mercado de exportación de ganado, los más pequeños fueron quedando rezagados.
+La falta de innovación, capacitación, tecnificación y estándares de calidad los dejo fuera del juego, llevandolos a la quiebra o a vender su patrimonio.
+Así el nuevo modelo económico, orientado al exterior, los relegó rápidamente.
+
 En lugar de aprovechar las cadenas de valor para generar capacidades productivas internas, el país se volvió un proveedor de bienes intermedios y materias primas. 
 Estos bienes y materias primas en muchos de los casos, ni siquiera pasan por procesos de transformación local.
 La exportación de ganado en pie en lugar de carne procesada es un ejemplo claro de esta pérdida de oportunbidad de valor agregado.
+Como bien señaló Adam Smith. algunos productos como el ganado pueden producirse en grandes cantidades.
+Pero si no se transforman adecuadamente adecuedamente pierden valor y son desplazados por actividades más rentables, (Adam Smith, 1776, p. 318).
+La exportación de ganado en pie sin procesamiento es precisamente una forma de sacrificar valor agregado.
 
 En esta coyuntura, se realizaó la Confederación Nacional de Gobernadores y Gobernadoras. 
 Una de las conclusiones fue la redifinición de la estrategía de desarrollo productivo de México.
@@ -66,6 +74,8 @@ Estas empresas cuentan con los recursos necesarios para cumplir con los estánda
 Estas empresas pueden solventar sacrificar ganado bovino en los rastros Tipo Inspección Federal (TIF).
 En contraste, los pequeños productores se limitan a la crianza y venta de ganado en pie debido a los altos costos asociados la logística y el sacrificio del ganado.
 Así, los pequeños productores quedan relegados en la parte más baja de la cadena de valor.
+Como mencionó Smith, en mercados donde unos pocos concentran el control, se vuelve menos abundante la distribución de las fuentes primitivas de ingreso, como salarios y ganancias.
+En Sonora, este tipo deestructura oligopólica impide una distribución más justa de los beneficios y reduce la competencia, beneficiando a unos cuantos.
  
 Como resultado, su margen de ganancias es reducido y depende de intermediarios para comercializar su ganado, perpetuando su vulnerabilidad económica.
 Sin embargo, desde la perspectiva del costo de oportunidad, estos pequeños productores podrían obtener un mayor valor añadido si tuvieran acceso a la infraestructura necesaria para integrarse al mercado de carne procesada.
@@ -122,6 +132,8 @@ México inició su proceso de apertura económica en la década de 1980.
 En este proceso se sometió a la política industrial al modelo de crecimiento hacia afuera lo que ha resultado en 30 años de éxito externo y fracaso interno.
 
 Las exportaciones han sido lo único que ha crecido, no obstante, es importante señalar que las exportaciones tienden a incorporar poco valor agregado y a tener un nivel bajo de encadenamiento con el resto de la estructura productiva (Morales-López, 2023).
+Esto refuerza la tesis de Smith, quien advertía que el comercio local es la base real de la riqueza, ya que permite generar el mayor ingreso y empleo posible con el mismo capital, (Smith, 1776, p. 509).
+Apostar unicamente por el comercio exterior sin fortalecer el mercado interno reduce el impacto positivo de las exportaciones.
 
 Por su parte Vidaurrazaga y Cortez (2000) destacan que en la práctica la apertura comercial no solo fue unilateral, sino que también significó la reducción de inversión pública, reducción de apoyo gubernamentales, eliminación de subsidios.
 En este contexto de desigualdad competitiva, el aparato productivo nacional se enfrentó a la competencia internacional lo que llevó a muchas empresas a la quiebra y desaparición, sobre todo pequeñas y medianas empresas.
